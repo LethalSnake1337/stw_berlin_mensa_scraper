@@ -1,3 +1,5 @@
+# ----- TU-Berlin -----
+
 [canteens.TuHardenberg]
 name = "Mensa TU Hardenbergstraße"
 street = "Hardenbergstraße 34, 10623 Berlin"
@@ -5,3 +7,200 @@ city = "Berlin"
 id = 321
 url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/TuHardenberg.xml"
 source = "https://www.stw.berlin/mensen/einrichtungen/technische-universit%C3%A4t-berlin/mensa-tu-hardenbergstra%C3%9Fe.html"
+
+[canteens.TuMarch]
+name = "Mensa TU Marchstraße"
+street = "Marchstraße 23, 10587 Berlin"
+city = "Berlin"
+id = 538
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/TuMarch.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/technische-universit%C3%A4t-berlin/mensa-tu-marchstra%C3%9Fe.html"
+
+[canteens.TuVeggie]
+name = "Mensa TU Veggie 2.0 – Die vegane Mensa"
+street = "Hardenbergstraße 34, 10623 Berlin"
+city = "Berlin"
+id = 631
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/TuVeggie.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/technische-universit%C3%A4t-berlin/veggie2.0.html"
+
+
+# ----- HU-Berlin -----
+
+[canteens.HuChariteZahnklinik]
+name = "Mensa Charité Zahnklinik"
+street = "Aßmannshauser Str. 2-6, 14197 Berlin"
+city = "Berlin"
+id = 537
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/HuChariteZahnklinik.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/charit%C3%A9/mensa-charite-zahnklinik.html"
+
+[canteens.HuNord]
+name = "Mensa HU Nord"
+street = "Hannoversche Straße 7, 10115 Berlin"
+city = "Berlin"
+id = 147
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/HuNord.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/humboldt-universit%C3%A4t-zu-berlin/mensa-hu-nord.html"
+
+[canteens.HuOaseAdlershof]
+name = "Mensa HU Oase Adlershof"
+street = "Rudower Chaussee 25, 12489 Berlin"
+city = "Berlin"
+id = 191
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/HuOaseAdlershof.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/humboldt-universit%C3%A4t-zu-berlin/mensa-hu-oase-adlershof.html"
+
+[canteens.HuSued]
+name = "Mensa HU Süd"
+street = "Unter den Linden 6, 10117 Berlin"
+city = "Berlin"
+id = 367
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/HuSued.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/humboldt-universit%C3%A4t-zu-berlin/mensa-hu-s%C3%BCd.html"
+
+
+# ----- HfM -----
+
+[canteens.HfM]
+name = "Mensa HfM Charlottenstraße"
+street = "Charlottenstraße 55, 10117 Berlin"
+city = "Berlin"
+id = 531
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/HfM.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/hfm/mensa-hfm-charlottenstra%C3%9Fe.html"
+
+# ----- BHT -----
+
+[canteens.BHT]
+name = "Mensa BHT Luxemburger Straße"
+street = "Luxemburger Straße 9, 13353 Berlin"
+city = "Berlin"
+id = 527
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/BHT.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/berliner-hochschule-f%C3%BCr-technik/mensa-bht.html"
+
+
+# ----- EHB -----
+
+[canteens.EHB]
+name = "Mensa EHB Teltower Damm"
+street = "Teltower Damm 118 - 122, 14167 Berlin"
+city = "Berlin"
+id = 529
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/EHB.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/ehb/mensa-evang.-hs-berlin-teltower-damm.html"
+
+
+# ----- FU-Berlin -----
+
+[canteens.FuHreenhaus]
+name = "Mensa FU Herrenhaus Düppel"
+street = "Oertzenweg 19b, 14163 Berlin"
+city = "Berlin"
+id = 271
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/FuHreenhaus.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/freie-universit%C3%A4t-berlin/mensa-fu-herrenhaus-d%C3%BCppel.html"
+
+[canteens.FuShokudo]
+name = "Mensa FU I Shokudō"
+street = "Van't-Hoff-Str. 6, 14195 Berlin"
+city = "Berlin"
+id = 323
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/FuShokudo.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/freie-universit%C3%A4t-berlin/shokudo.html"
+
+[canteens.FuII]
+name = "Mensa FU II"
+street = "Otto-von-Simson-Straße 26, 14195 Berlin"
+city = "Berlin"
+id = 322
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/FuII.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/freie-universit%C3%A4t-berlin/mensa-fu-ii.html"
+
+[canteens.FuKoser]
+name = "Mensa FU Koserstraße"
+street = "Koserstraße 20, 14195 Berlin"
+city = "Berlin"
+id = 660
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/FuKoser.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/freie-universit%C3%A4t-berlin/mensa-fu-koserstra%C3%9Fe.html"
+
+[canteens.FuLankwitz]
+name = "Mensa FU Lankwitz Malteserstraße"
+street = "Malteserstraße 74, 12249 Berlin"
+city = "Berlin"
+id = 528
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/FuLankwitz.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/freie-universit%C3%A4t-berlin/mensa-fu-lankwitz-malteserstra%C3%9Fe.html"
+
+[canteens.FuPharmazie]
+name = "Mensa FU Pharmazie"
+street = "Königin-Luise-Str. 2, 14195 Berlin"
+city = "Berlin"
+id = 542
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/FuPharmazie.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/freie-universit%C3%A4t-berlin/mensa-fu-pharmazie.html"
+
+
+# ----- HfS-Berlin -----
+
+[canteens.HfS]
+name = "Mensa HfS Ernst Busch"
+street = "Zinnowitzer Straße 11, 10115 Berlin"
+city = "Berlin"
+id = 533
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/HfS.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/mensa-hfs-ernst-busch.html"
+
+
+# ----- HTW-Berlin -----
+
+[canteens.HtwTreskow]
+name = "Mensa HTW Treskowallee"
+street = "Treskowallee 8, 10318 Berlin"
+city = "Berlin"
+id = 320
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/HtwTreskow.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/hochschule-f%C3%BCr-technik-und-wirtschaft-berlin/mensa-htw-treskowallee.html"
+
+[canteens.HtwWilhelm]
+name = "Mensa HTW Wilhelminenhof"
+street = "Wilhelminenhofstraße 75 A, 12459 Berlin"
+city = "Berlin"
+id = 319
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/HtwWilhelm.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/hochschule-f%C3%BCr-technik-und-wirtschaft-berlin/mensa-htw-wilhelminenhof.html"
+
+
+# ----- HWR-Berlin -----
+
+[canteens.HwrBadensche]
+name = "Mensa HWR Badensche Straße"
+street = "Badensche Str. 51, 10825 Berlin"
+city = "Berlin"
+id = 526
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/HwrBadensche.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/hochschule-f%C3%BCr-wirtschaft-und-recht-berlin/mensa-hwr-badensche-stra%C3%9Fe.html"
+
+
+# ----- KHSB-Berlin -----
+
+[canteens.Khsb]
+name = "Mensa KHSB"
+street = "Köpenicker Allee 39 - 57, 10318 Berlin"
+city = "Berlin"
+id = 532
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/Khsb.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/mensa-khsb.html"
+
+
+# ----- KHS-Berlin -----
+
+[canteens.Khs]
+name = "Mensa KHS Weißensee"
+street = "Bühringstraße 20, 13086 Berlin"
+city = "Berlin"
+id = 530
+url = "https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/Khs.xml"
+source = "https://www.stw.berlin/mensen/einrichtungen/mensa-khs-weissensee.html"
