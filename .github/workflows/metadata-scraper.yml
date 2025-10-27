@@ -1,0 +1,49 @@
+name: Manual Metadata Scraper
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-metadata-scraper:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: metadata-scraper
+      cancel-in-progress: true
+
+    steps:
+      - name: Checkout repository
+      # fetch-depth 0 so commits push cleanly (no shallow issues)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run scraper (metadata)
+        run: python main.py --parse_meta_data
+
+      - name: Commit & push ALL changes
+        run: |
+          set -e
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "Metadata XML update [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
