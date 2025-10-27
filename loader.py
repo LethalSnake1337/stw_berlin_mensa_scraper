@@ -10,6 +10,8 @@ class CanteenMeta:
     street: str
     city: str
     id: int
+    url: str
+    source: str
 
 def load_canteens_toml(path: Path) -> Dict[str, CanteenMeta]:
     data = tomllib.loads(path.read_bytes().decode())
@@ -21,5 +23,7 @@ def load_canteens_toml(path: Path) -> Dict[str, CanteenMeta]:
             street=val["street"],
             city=val["city"],
             id=int(val["id"]),
+            url=val["url"],
+            source=val["source"],
         )
     return canteens
