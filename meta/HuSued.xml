@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openmensa xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
+  <canteen>
+    <name>Mensa HU Süd</name>
+    <address>Unter den Linden 6, 10117 Berlin</address>
+    <city>Berlin</city>
+    <feed name="full">
+      <schedule dayOfMonth="*" dayOfWeek="*" hour="7,9" minute="10" retry="65 1 1440"/>
+      <url>https://lethalsnake1337.github.io/stw_berlin_mensa_scraper/output/HuSued.xml</url>
+      <source>https://www.stw.berlin/mensen/einrichtungen/humboldt-universit%C3%A4t-zu-berlin/mensa-hu-s%C3%BCd.html</source>
+    </feed>
+  </canteen>
+</openmensa>
