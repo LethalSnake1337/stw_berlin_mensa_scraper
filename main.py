@@ -1,4 +1,7 @@
+import os
+import shutil
 from pathlib import Path
+from time import sleep
 
 from fetcher import Fetcher
 from loader import load_canteens_toml
@@ -14,12 +17,16 @@ if __name__ == '__main__':
     # Get current Date time
     today = date.today()
     fetcher = Fetcher()
+
+    if os.path.exists("output"):
+        shutil.rmtree("output")
+
     for k, c in load_canteens_toml(Path("canteens.toml")).items():
         # Create Loop to fetch each day from two weeks
 
         canteen = LazyBuilder()
 
-        for day in range(0, 15):
+        for day in range(0, 7):
             print(today)
             print(today + timedelta(days=day))
             # Fetch speiseplan for currentDay
@@ -45,10 +52,15 @@ if __name__ == '__main__':
                     #print(f"    Notes: {m.notes}")
                     canteen.addMeal(dm.day, m.category, m.name, m.notes, m.prices)
 
-        canteen.toXMLFeed()
+        xml_str = canteen.toXMLFeed()
 
+        os.makedirs("output", exist_ok=True)
+        file_path = os.path.join("output", f"{c.key}.xml")
 
-        #
-        print(f"{c.id:3} | {c.name:30} | {c.city}")
+        with open(file_path, "w") as f:
+            f.write(xml_str)
+
+        # Sleep to not get Rate limit
+        sleep(30)
 
 
