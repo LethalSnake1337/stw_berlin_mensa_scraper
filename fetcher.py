@@ -23,14 +23,3 @@ class Fetcher:
         r = self.session.post(url, data=data, timeout=self.timeout, headers=headers)
         r.raise_for_status()
         return r.content
-
-if __name__ == "__main__":
-    fetcher = Fetcher()
-    html_bytes = fetcher.post(
-        "https://www.stw.berlin/xhr/speiseplan-wochentag.html",
-        {
-            "resources_id": "321",
-            "date": "2025-10-28"
-        }
-    )
-    print(html_bytes.decode())
