@@ -10,18 +10,6 @@ from parser import STWBerlinDayParser
 
 url = "https://www.stw.berlin/xhr/speiseplan-wochentag.html"
 
-def print_hi():
-    canteen = LazyBuilder()
-    canteen.addMeal(
-        date(2024, 10, 31),
-        "Hauptgericht",
-        "Gulasch",
-        notes= ["Mit Süßstoff", "Mit Schwein"],
-        prices={"student": "1,15€", "other": "1,42€"}
-    )
-    print(canteen.toXMLFeed())
-
-
 if __name__ == '__main__':
     # Get current Date time
     today = date.today()
