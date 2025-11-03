@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2025-10-27">
+    <day date="2025-11-03">
       <category name="Vorspeisen">
         <meal>
           <name>5 Futo Maki mit Rettich, Gurke und Schluppen</name>
@@ -37,10 +37,10 @@
       </category>
       <category name="Suppen">
         <meal>
-          <name>Erbsen Wasabi Suppe</name>
+          <name>Kohlsuppe</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -49,36 +49,37 @@
       </category>
       <category name="Aktionen">
         <meal>
-          <name>Ramen mit Rettich, Kohl, Daikon Kresse und Dashi</name>
+          <name>Ramen Miso: Ramennudeln mit Weißkohl, Sesam und Dashi</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">3.25</price>
-          <price role="other">3.55</price>
-          <price role="student">2.95</price>
+          <price role="employee">4.35</price>
+          <price role="other">4.75</price>
+          <price role="student">3.95</price>
         </meal>
       </category>
       <category name="Essen">
         <meal>
-          <name>Hefe Dumpling mit Kürbis und Mandeln</name>
+          <name>Oden Eintopf mit Kartoffeln, Rettich, Karotte, Champions, Bambus und Dashi</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.50</price>
           <price role="other">4.05</price>
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>Bigan Chunks mit Lotus, Sesam Backkartoffeln und Bratensauce</name>
+          <name>Hiroshi Kaiserschmarrn mit Pflaumenkompott</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Nachhaltige Landwirtschaft:  Die Lebensmittel dieses Gerichts stammen aus nachhaltiger Erzeugung.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">8.10</price>
-          <price role="other">9.30</price>
-          <price role="student">4.05</price>
+          <price role="employee">4.70</price>
+          <price role="other">5.40</price>
+          <price role="student">2.35</price>
         </meal>
       </category>
       <category name="Desserts">
@@ -93,7 +94,9 @@
           <price role="student">1.50</price>
         </meal>
         <meal>
-          <name>Panna Cotta mit Erdbeeren</name>
+          <name>Panna Cotta mit Yuzu</name>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.80</price>
@@ -101,41 +104,39 @@
           <price role="student">0.90</price>
         </meal>
         <meal>
-          <name>Chia Pudding mit Mango</name>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <name>Veganer Joghurt mit Himbeeren</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">1.80</price>
-          <price role="other">2.05</price>
-          <price role="student">0.90</price>
-        </meal>
-        <meal>
-          <name>Joghurt mit Mango</name>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>Quark mit Kirschen</name>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>Joghurt mit Apfel</name>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
       </category>
     </day>
-    <day date="2025-10-28">
+    <day date="2025-11-04">
       <category name="Vorspeisen">
+        <meal>
+          <name>5 Futo Maki mit Karotte, Zucchini und Sesam Mayonnaise</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">3.60</price>
+          <price role="other">3.90</price>
+          <price role="student">3.25</price>
+        </meal>
+        <meal>
+          <name>5 Futo Maki mit Rettich, Gurke und Schluppen</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">3.60</price>
+          <price role="other">3.90</price>
+          <price role="student">3.25</price>
+        </meal>
         <meal>
           <name>5 Futo Maki mit Avocado, Schluppe und Karotte</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
@@ -145,6 +146,26 @@
           <price role="employee">3.60</price>
           <price role="other">3.90</price>
           <price role="student">3.25</price>
+        </meal>
+        <meal>
+          <name>3 Futo Maki mit Karotte, Zucchini und Sesam Mayonnaise</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">2.40</price>
+          <price role="other">2.60</price>
+          <price role="student">2.15</price>
+        </meal>
+        <meal>
+          <name>3 Futo Maki mit Rettich, Gurke und Schluppen</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">2.40</price>
+          <price role="other">2.60</price>
+          <price role="student">2.15</price>
         </meal>
         <meal>
           <name>3 Futo Maki mit Avocado, Schluppe und Karotte</name>
@@ -175,55 +196,43 @@
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">3.00</price>
-          <price role="other">3.45</price>
-          <price role="student">1.50</price>
+          <price role="employee">1.80</price>
+          <price role="other">2.05</price>
+          <price role="student">0.90</price>
         </meal>
       </category>
       <category name="Aktionen">
         <meal>
-          <name>Yaki Udon: Udonnudeln mit Weißkohl, Karotten, Pilzen und Dashi</name>
+          <name>Ramen Tantanmen: Ramennudeln mit Sonnenblumenhack, Pak Choi und Dashi</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">4.35</price>
-          <price role="other">4.75</price>
-          <price role="student">3.95</price>
+          <price role="employee">5.45</price>
+          <price role="other">5.95</price>
+          <price role="student">4.95</price>
         </meal>
       </category>
       <category name="Essen">
         <meal>
-          <name>Jriomotejima Curry: Grünes Curry mit Tofu, Sojasprossen, Bohnen, Aubergine und Reis</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <name>Kartoffeln mit Erdnussquark</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">3.50</price>
           <price role="other">4.05</price>
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>Love Tokio Berlin - Vegane Wurst mit Sesam, warmer Currysauce, Rotkohlsalat und Kukruma-Kartoffeln</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">6.70</price>
-          <price role="other">7.70</price>
-          <price role="student">3.35</price>
+          <name>Gebackenes Lachsfilet mit Knoblauchreis, Rettichsalat und Gewürzsauce</name>
+          <note>Nachhaltige Fischerei:  Es wird auf eine bestandsschonende Fischerei und nachhaltige Fangmethoden geachtet.</note>
+          <price role="employee">7.30</price>
+          <price role="other">8.40</price>
+          <price role="student">3.65</price>
         </meal>
       </category>
       <category name="Desserts">
-        <meal>
-          <name>Creme Brûlée mit Yuzu</name>
-          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">3.00</price>
-          <price role="other">3.45</price>
-          <price role="student">1.50</price>
-        </meal>
         <meal>
           <name>Obstsalat mit Sesam</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
@@ -234,9 +243,18 @@
           <price role="other">3.45</price>
           <price role="student">1.50</price>
         </meal>
+        <meal>
+          <name>Matcha Creme Brûlée</name>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
       </category>
     </day>
-    <day date="2025-10-29">
+    <day date="2025-11-05">
       <category name="Vorspeisen">
         <meal>
           <name>5 Futo Maki mit Karotte, Zucchini und Sesam Mayonnaise</name>
@@ -249,7 +267,47 @@
           <price role="student">3.25</price>
         </meal>
         <meal>
+          <name>5 Futo Maki mit Rettich, Gurke und Schluppen</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">3.60</price>
+          <price role="other">3.90</price>
+          <price role="student">3.25</price>
+        </meal>
+        <meal>
+          <name>5 Futo Maki mit Avocado, Schluppe und Karotte</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">3.60</price>
+          <price role="other">3.90</price>
+          <price role="student">3.25</price>
+        </meal>
+        <meal>
           <name>3 Futo Maki mit Karotte, Zucchini und Sesam Mayonnaise</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">2.40</price>
+          <price role="other">2.60</price>
+          <price role="student">2.15</price>
+        </meal>
+        <meal>
+          <name>3 Futo Maki mit Rettich, Gurke und Schluppen</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">2.40</price>
+          <price role="other">2.60</price>
+          <price role="student">2.15</price>
+        </meal>
+        <meal>
+          <name>3 Futo Maki mit Avocado, Schluppe und Karotte</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
@@ -272,10 +330,10 @@
       </category>
       <category name="Suppen">
         <meal>
-          <name>Süßkartoffelsuppe mit Honig</name>
+          <name>Kürbis Soja Suppe</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -284,19 +342,19 @@
       </category>
       <category name="Aktionen">
         <meal>
-          <name>Ramen Assari: Ramen Nudeln mit Sojasprossen, Champignons, Süßkartoffeln und Dashi</name>
+          <name>Osaka Soba: Sobanudeln mit Shiitake Pilzen, Gemüse und Dashi</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">4.35</price>
-          <price role="other">4.75</price>
-          <price role="student">3.95</price>
+          <price role="employee">5.45</price>
+          <price role="other">5.95</price>
+          <price role="student">4.95</price>
         </meal>
       </category>
       <category name="Essen">
         <meal>
-          <name>Teriyaki Gemüsepfanne mit Rotkohl, Paprika, Karotten, Rote Bete und Reis</name>
+          <name>Teriyaki Pfannengemüse mit Reis</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
@@ -306,14 +364,14 @@
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>Veganes Katsu don mit Krautsalat und Reis</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <name>Omurice Omelett mit Champignons, Edamame, Karotten und Reis</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">6.70</price>
-          <price role="other">7.70</price>
-          <price role="student">3.35</price>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">5.50</price>
+          <price role="other">6.35</price>
+          <price role="student">2.75</price>
         </meal>
       </category>
       <category name="Desserts">
@@ -339,6 +397,16 @@
           <price role="student">1.50</price>
         </meal>
         <meal>
+          <name>Matcha Chia Pudding</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.80</price>
+          <price role="other">2.05</price>
+          <price role="student">0.90</price>
+        </meal>
+        <meal>
           <name>Matcha Joghurt mit Brombeeren</name>
           <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
           <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
@@ -348,19 +416,9 @@
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
-        <meal>
-          <name>Chia Pudding mit Himbeer Topping</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
       </category>
     </day>
-    <day date="2025-10-30">
+    <day date="2025-11-06">
       <category name="Vorspeisen">
         <meal>
           <name>5 frittierte Futo Maki mit Rettich, Zucchini und Schluppen</name>
@@ -401,28 +459,14 @@
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">3.00</price>
-          <price role="other">3.45</price>
-          <price role="student">1.50</price>
+          <price role="employee">1.80</price>
+          <price role="other">2.05</price>
+          <price role="student">0.90</price>
         </meal>
       </category>
       <category name="Aktionen">
         <meal>
-          <name>Tofu Burger mit Ingwermayonnaise, gepickelten Gurken, Schmorzwiebeln und Sesambrötchen</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Nachhaltige Landwirtschaft:  Die Lebensmittel dieses Gerichts stammen aus nachhaltiger Erzeugung.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">5.45</price>
-          <price role="other">5.95</price>
-          <price role="student">4.95</price>
-        </meal>
-        <meal>
-          <name>Ramen mit Fenchel und Koriandersaat</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <name>Udon-Nudeln mit Edamame, Lotuswurzel und Dashi</name>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">4.35</price>
           <price role="other">4.75</price>
@@ -431,27 +475,24 @@
       </category>
       <category name="Essen">
         <meal>
-          <name>Reispfanne mit Edamame, Erbsen, Kürbis, Sesam und fermentiertem Kohl</name>
+          <name>Takikomi Gohan: Würzreis mit Champignons, Edamame und Bambus</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.50</price>
           <price role="other">4.05</price>
           <price role="student">1.75</price>
         </meal>
+        <meal>
+          <name>Rippchen vom Schwein mit Süßkartoffeln und Koriander Coleslaw</name>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <price role="employee">7.30</price>
+          <price role="other">8.85</price>
+          <price role="student">3.85</price>
+        </meal>
       </category>
       <category name="Desserts">
-        <meal>
-          <name>Schokoladenmousse mit Yuzu</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">3.00</price>
-          <price role="other">3.45</price>
-          <price role="student">1.50</price>
-        </meal>
         <meal>
           <name>Obstsalat mit Sesam</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
@@ -463,18 +504,28 @@
           <price role="student">1.50</price>
         </meal>
         <meal>
-          <name>Veganer Joghurt mit Himbeeren</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <name>Joghurt mit süßem Kürbisspiegel</name>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
           <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>Schokoladenmousse mit Matcha</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
       </category>
     </day>
-    <day date="2025-10-31">
+    <day date="2025-11-07">
       <category name="Vorspeisen">
         <meal>
           <name>5 Futo Maki mit Karotte, Zucchini und Sesam Mayonnaise</name>
@@ -551,8 +602,6 @@
       <category name="Suppen">
         <meal>
           <name>Horenso Suppe mit Champions, Karotte, Kartoffel, Spinat und Sahne</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.80</price>
@@ -562,11 +611,22 @@
       </category>
       <category name="Aktionen">
         <meal>
-          <name>Udon Nudeln mit einem Onsen Ei dazu gepickelte Shiitake Pilze</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <name>Okinomipuffer mit Gemüse und Dips</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Nachhaltige Landwirtschaft:  Die Lebensmittel dieses Gerichts stammen aus nachhaltiger Erzeugung.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">4.35</price>
+          <price role="other">4.75</price>
+          <price role="student">3.95</price>
+        </meal>
+        <meal>
+          <name>Reis Bowl Miso: Reis mit Karotten, Erbsen, Sesamöl und Dashi</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">4.35</price>
           <price role="other">4.75</price>
           <price role="student">3.95</price>
@@ -574,34 +634,14 @@
       </category>
       <category name="Essen">
         <meal>
-          <name>Hokkaido Reisauflauf</name>
+          <name>Hiyoko Kartoffelpfanne mit Erbsen, Karotten, Zwiebeln, Ingwer und Knoblauch</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.50</price>
           <price role="other">4.05</price>
           <price role="student">1.75</price>
-        </meal>
-        <meal>
-          <name>Krautwickel mit Erbsenminzpüree</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">7.30</price>
-          <price role="other">8.40</price>
-          <price role="student">3.65</price>
-        </meal>
-        <meal>
-          <name>Backfisch mit Reis dazu Gurkensalat und Wasabi-Mayonnaise Gurkensalat</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
-          <note>Nachhaltige Fischerei:  Es wird auf eine bestandsschonende Fischerei und nachhaltige Fangmethoden geachtet.</note>
-          <price role="employee">5.90</price>
-          <price role="other">6.80</price>
-          <price role="student">2.95</price>
         </meal>
       </category>
       <category name="Desserts">
@@ -616,7 +656,7 @@
           <price role="student">1.50</price>
         </meal>
         <meal>
-          <name>Milchreis Tokyo</name>
+          <name>Kokos Milchreis mit Hokkaido</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -667,10 +707,10 @@
         </meal>
       </category>
     </day>
-    <day date="2025-11-01">
+    <day date="2025-11-08">
       <closed/>
     </day>
-    <day date="2025-11-02">
+    <day date="2025-11-09">
       <closed/>
     </day>
   </canteen>
