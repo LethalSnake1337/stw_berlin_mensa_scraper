@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
         canteen = LazyBuilder()
 
-        for day in range(0, 7):
+        for day in range(0, 14):
             print(today)
             print(today + timedelta(days=day))
             # Fetch speiseplan for currentDay
@@ -87,6 +87,6 @@ if __name__ == '__main__':
             f.write(xml_str)
 
         # Sleep to not get Rate limit
-        sleep(30)
+        sleep(10)
 
 

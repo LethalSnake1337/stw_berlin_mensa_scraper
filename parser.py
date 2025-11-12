@@ -91,7 +91,7 @@ class STWBerlinDayParser:
                 for tr in meal_div.select(".tooltip_content tr"):
                     cols = [td.get_text(strip=True) for td in tr.find_all("td")]
                     if len(cols) == 2:
-                        allergens.append(f"{cols[0]} {cols[1]}")
+                        allergens.append(f"Allergens: {cols[0]} {cols[1]}")
 
                 # --- notes from icons ---
                 notes = []
@@ -100,6 +100,8 @@ class STWBerlinDayParser:
                     if alt:
                         clean = BeautifulSoup(alt, "html.parser").get_text(" ").strip()
                         notes.append(clean)
+
+                notes.extend(allergens)
 
                 meals.append(Meal(
                     category=category_name,
