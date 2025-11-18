@@ -4,6 +4,7 @@ import shutil
 from pathlib import Path
 from time import sleep
 
+from cafenero_parser import parse_cafenero_today
 from fetcher import Fetcher
 from loader import load_canteens_toml
 
@@ -52,31 +53,41 @@ if __name__ == '__main__':
 
         canteen = LazyBuilder()
 
-        for day in range(0, 14):
-            print(today)
-            print(today + timedelta(days=day))
-            # Fetch speiseplan for currentDay
-            html_bytes = fetcher.post(
-                url,
-                {
-                    "resources_id": c.id,
-                    "date": today + timedelta(days=day),
-                }
-            )
+        if "stw.berlin" in c.source:
+            for day in range(0, 14):
+                print(today)
+                print(today + timedelta(days=day))
+                # Fetch speiseplan for currentDay
+                html_bytes = fetcher.post(
+                    url,
+                    {
+                        "resources_id": c.id,
+                        "date": today + timedelta(days=day),
+                    }
+                )
 
-            # Call Parser
-            parser = STWBerlinDayParser()
-            daymenus = parser.parse_html(html_bytes, today)
-            for dm in daymenus:
-                print(f"Date: {dm.day}")
+                # Call Parser
+                parser = STWBerlinDayParser()
+                daymenus = parser.parse_html(html_bytes, today)
+                for dm in daymenus:
+                    print(f"Date: {dm.day}")
+                    if dm.closed:
+                        canteen.setDayClosed(dm.day)
+                    for m in dm.meals:
+                        #print(f"  [{m.category}] {m.name}")
+                        #print(f"    Prices: {m.prices}")
+                        #print(f"    Allergens: {m.allergens}")
+                        #print(f"    Notes: {m.notes}")
+                        canteen.addMeal(dm.day, m.category, m.name, m.notes, m.prices)
+
+        elif "cafenero.net" in c.source:
+            day_menus = parse_cafenero_today()
+            for dm in day_menus:
                 if dm.closed:
                     canteen.setDayClosed(dm.day)
-                for m in dm.meals:
-                    #print(f"  [{m.category}] {m.name}")
-                    #print(f"    Prices: {m.prices}")
-                    #print(f"    Allergens: {m.allergens}")
-                    #print(f"    Notes: {m.notes}")
-                    canteen.addMeal(dm.day, m.category, m.name, m.notes, m.prices)
+                else:
+                    for m in dm.meals:
+                        canteen.addMeal(dm.day, m.category, m.name, m.notes, m.prices)
 
         xml_str = canteen.toXMLFeed()
 
