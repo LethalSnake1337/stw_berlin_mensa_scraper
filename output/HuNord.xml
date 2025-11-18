@@ -116,7 +116,7 @@
           <price role="student">3.65</price>
         </meal>
         <meal>
-          <name>Eine halbe gefüllte Paprikaschote mit Schweinehackfleisch und Ma an Bratensauce</name>
+          <name>Eine gefüllte Paprikaschote mit Schweinehackfleisch und Ma an Bratensauce</name>
           <note>Allergens: 14 mit zum Teil fein zerkleinertem Fleischanteil</note>
           <note>Allergens: 2 Schweinefleisch bzw. mit Gelatine vom Schwein</note>
           <note>Allergens: 23 Eier</note>
@@ -175,9 +175,8 @@
           <price role="student">1.55</price>
         </meal>
         <meal>
-          <name>Blumenkohleintopf indische Art mit Tomaten, Kichererbsen und Koriander</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <name>Blumenkohleintopf indische Art mit Kichererbsen und Koriander</name>
+          <note>Allergens: 28 Soja</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.50</price>
@@ -254,23 +253,23 @@
       </category>
       <category name="Desserts">
         <meal>
-          <name>Erdbeerquark</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
           <name>Apfel-Zimt-Joghurt</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Allergens: 7 Antioxidationsmittel</note>
           <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
           <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>Erdbeerquark</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -497,23 +496,23 @@
       </category>
       <category name="Desserts">
         <meal>
-          <name>Joghurt mit Honig und Sesam</name>
+          <name>Heidelbeerquark mit Sonnenblumenkernen</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Allergens: 31 Sesam</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
           <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Heidelbeerquark mit Sonnenblumenkernen</name>
+          <name>Joghurt mit Honig und Sesam</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
+          <note>Allergens: 31 Sesam</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
           <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1256,6 +1255,17 @@
       </category>
       <category name="Desserts">
         <meal>
+          <name>Bananen-Kokos-Joghurt</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
           <name>Quark mit gerösteten Nüssen</name>
           <note>Allergens: 26a Mandeln</note>
           <note>Allergens: 26b Haselnuss</note>
@@ -1264,17 +1274,6 @@
           <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
           <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>Bananen-Kokos-Joghurt</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1515,23 +1514,23 @@
       </category>
       <category name="Desserts">
         <meal>
-          <name>Ananasquark</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
           <name>Kirschjoghurt mit Dinkel</name>
           <note>Allergens: 21e Dinkel</note>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
           <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>Ananasquark</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1996,23 +1995,23 @@
       </category>
       <category name="Desserts">
         <meal>
-          <name>Rhababerquark mit Mandeln</name>
-          <note>Allergens: 26a Mandeln</note>
+          <name>Heidelbeerjoghurt</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Heidelbeerjoghurt</name>
+          <name>Rhababerquark mit Mandeln</name>
+          <note>Allergens: 26a Mandeln</note>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
