@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2025-12-05">
+    <day date="2025-12-06">
       <category name="Mittagstisch">
         <meal>
           <name>cafeneroindenuniversitätsbibliothekendertuundudkberlin</name>
         </meal>
       </category>
-      <category name="mittagstisch – donnerstag 04. dezember 2025 von 12:00 bis 17:00 uhr rg">
+      <category name="mittagstisch – freitag 05.dezember 2025 von 12:00 bis 17:00 uhr rg">
         <meal>
           <name>kleine portion suppe</name>
           <price role="other">5.00</price>
@@ -15,6 +15,10 @@
         <meal>
           <name>kleine portion nudeln</name>
           <price role="other">6.00</price>
+        </meal>
+        <meal>
+          <name>beilagensalat</name>
+          <price role="other">2.80</price>
         </meal>
         <meal>
           <name>pellkartoffeln mit butter oder kräuterquark + leinoel und gemischtem salat vegetarisch je</name>
@@ -27,30 +31,37 @@
           <price role="other">6.80</price>
         </meal>
         <meal>
-          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! blumenkohlsuppe mit broccolieinlage, möhrenraspeln, petersilie, lauchzwiebeln, zwiebelbrot vegetarisch</name>
+          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! topinambur karoffel suppe möhrenraspeln, petersilie, lauchzwiebeln, zwiebelbrot vegetarisch</name>
           <note>vegetarisch</note>
           <price role="other">6.00</price>
         </meal>
         <meal>
-          <name>fusilli mit meeresfrüchten, gemüse, lauchzwiebeln, petersilie meeresfrüchte</name>
+          <name>spaghetti mit bolognese lauchzwiebeln, petersilie und parmesankäse rindfleisch</name>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>fusilli mit veganer linsen- gemüsesauce mit möhrenraspeln, petersilie + röstzwiebeln vegan</name>
+          <name>spaghetti mit blumenkohl-sahnesauce möhrenraspeln, petersilie rucola und parmesankäse vegan</name>
           <note>vegan</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>fusilli mit rucola-rotebeete pesto + parmesankäse vegan / käse mit lab</name>
+          <name>spaghetti mit tomatenpesto und parmesankäse vegan / käse mit lab</name>
           <note>vegan</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>quiche lorraine mit lauch und speck, und beilagensalat mit himbeerdressing schwein</name>
-          <price role="other">9.00</price>
+          <name>spaghetti mit tomaten sauce mit kidney bohnen mais vegan</name>
+          <note>vegan</note>
+          <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>pulled pork burger mit pommes rot weiss, coleslaw-salat mit himbeerdressing schweinefleisch</name>
+          <name>spaghetti mit salbei oliven öl mit parmesankäse vegan</name>
+          <note>vegan</note>
+          <price role="other">7.00</price>
+        </meal>
+        <meal>
+          <name>adlerfisch-filet mit kräuterbutter sahne sauce auf topinambur-kartoffelstampf mit blumenkohl+brokkoli fisch</name>
+          <note>fisch</note>
           <price role="other">10.00</price>
         </meal>
       </category>
