@@ -74,10 +74,14 @@ if __name__ == '__main__':
                     if dm.closed:
                         canteen.setDayClosed(dm.day)
                     for m in dm.meals:
-                        #print(f"  [{m.category}] {m.name}")
-                        #print(f"    Prices: {m.prices}")
-                        #print(f"    Allergens: {m.allergens}")
-                        #print(f"    Notes: {m.notes}")
+                        print(f"  [{m.category}] {m.name}")
+                        print(f"    Prices: {m.prices}")
+                        print(f"    Allergens: {m.allergens}")
+                        print(f"    Notes: {m.notes}")
+
+                        if not getattr(m, "name", ""):
+                            continue
+
                         canteen.addMeal(dm.day, m.category, m.name, m.notes, m.prices)
 
         elif "cafenero.net" in c.source:
