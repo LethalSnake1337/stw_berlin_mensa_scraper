@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2025-12-30">
-      <closed/>
-    </day>
     <day date="2025-12-31">
       <closed/>
     </day>
@@ -63,17 +60,17 @@
       </category>
       <category name="Suppen">
         <meal>
-          <name>2- Tomatensuppe mit frischem Basilikum</name>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <name>1- Bouillon von Wurzelgemüse</name>
+          <note>Allergens: 27 Sellerie</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>1- Bouillon von Wurzelgemüse</name>
-          <note>Allergens: 27 Sellerie</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <name>2- Tomatensuppe mit frischem Basilikum</name>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -269,10 +266,10 @@
       </category>
       <category name="Desserts">
         <meal>
-          <name>4- Veganer Joghurt mit Apfel und Zimt</name>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <name>3- Birnenquark</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
@@ -287,16 +284,16 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>2- Mandarinenjoghurt</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <name>4- Veganer Joghurt mit Apfel und Zimt</name>
+          <note>Allergens: 7 Antioxidationsmittel</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>3- Birnenquark</name>
+          <name>2- Mandarinenjoghurt</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
@@ -381,8 +378,8 @@
       </category>
       <category name="Suppen">
         <meal>
-          <name>1- Gemüsebrühe mit Paprika</name>
-          <note>Allergens: 27 Sellerie</note>
+          <name>2- Maiscremesuppe</name>
+          <note>Allergens: 28 Soja</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
@@ -390,8 +387,8 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>2- Maiscremesuppe</name>
-          <note>Allergens: 28 Soja</note>
+          <name>1- Gemüsebrühe mit Paprika</name>
+          <note>Allergens: 27 Sellerie</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
@@ -581,8 +578,7 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>2- Kirschjoghurt mit Dinkel</name>
-          <note>Allergens: 21e Dinkel</note>
+          <name>5 - Naturjoghurt</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
@@ -600,7 +596,8 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>5 - Naturjoghurt</name>
+          <name>2- Kirschjoghurt mit Dinkel</name>
+          <note>Allergens: 21e Dinkel</note>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
@@ -888,8 +885,11 @@
       </category>
       <category name="Desserts">
         <meal>
-          <name>5 - Naturjoghurt</name>
+          <name>3- Pfirsich-Grünkern-Quark</name>
+          <note>Allergens: 21e Dinkel</note>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
@@ -897,11 +897,8 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>3- Pfirsich-Grünkern-Quark</name>
-          <note>Allergens: 21e Dinkel</note>
+          <name>5 - Naturjoghurt</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
@@ -1008,17 +1005,17 @@
       </category>
       <category name="Suppen">
         <meal>
-          <name>2- Romanescocremesuppe</name>
-          <note>Allergens: 28 Soja</note>
+          <name>1- Gemüsebrühe mit Reis</name>
+          <note>Allergens: 27 Sellerie</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>1- Gemüsebrühe mit Reis</name>
-          <note>Allergens: 27 Sellerie</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <name>2- Romanescocremesuppe</name>
+          <note>Allergens: 28 Soja</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1107,7 +1104,7 @@
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>1/2 Kokos-Milchreis Mangokompott</name>
+          <name>Kokos-Milchreis Mangokompott</name>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.50</price>
@@ -1115,7 +1112,7 @@
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>Kokos-Milchreis Mangokompott</name>
+          <name>1/2 Kokos-Milchreis Mangokompott</name>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.50</price>
@@ -1181,19 +1178,9 @@
       </category>
       <category name="Desserts">
         <meal>
-          <name>2- Heidelbeerjoghurt</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <name>4- Veganer Joghurt mit Erdbeeren</name>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>5 - Naturjoghurt</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
@@ -1208,9 +1195,19 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>4- Veganer Joghurt mit Erdbeeren</name>
+          <name>2- Heidelbeerjoghurt</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>5 - Naturjoghurt</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
@@ -1295,16 +1292,16 @@
       </category>
       <category name="Suppen">
         <meal>
-          <name>1- Gemüsebrühe mit Champignons und Petersilie</name>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <name>2- Zucchinisuppe mit Rosmarin und Tomaten</name>
+          <note>Allergens: 28 Soja</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>2- Zucchinisuppe mit Rosmarin und Tomaten</name>
-          <note>Allergens: 28 Soja</note>
+          <name>1- Gemüsebrühe mit Champignons und Petersilie</name>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1487,20 +1484,9 @@
       </category>
       <category name="Desserts">
         <meal>
-          <name>4- Veganer Joghurt mit Heidelbeeren und Mandeln</name>
-          <note>Allergens: 26a Mandeln</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>2- Apfel-Grünkern-Joghurt</name>
-          <note>Allergens: 21e Dinkel</note>
+          <name>5 - Naturjoghurt</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1516,9 +1502,20 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>5 - Naturjoghurt</name>
+          <name>4- Veganer Joghurt mit Heidelbeeren und Mandeln</name>
+          <note>Allergens: 26a Mandeln</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>2- Apfel-Grünkern-Joghurt</name>
+          <note>Allergens: 21e Dinkel</note>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1778,15 +1775,9 @@
       </category>
       <category name="Desserts">
         <meal>
-          <name>3- Müsliquark</name>
-          <note>Allergens: 21a Weizen</note>
-          <note>Allergens: 21c Gerste</note>
-          <note>Allergens: 21d Hafer</note>
-          <note>Allergens: 26a Mandeln</note>
-          <note>Allergens: 26b Haselnuss</note>
+          <name>5 - Naturjoghurt</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1803,6 +1794,298 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
+          <name>4- Veganer Joghurt mit Himbeeren</name>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>3- Müsliquark</name>
+          <note>Allergens: 21a Weizen</note>
+          <note>Allergens: 21c Gerste</note>
+          <note>Allergens: 21d Hafer</note>
+          <note>Allergens: 26a Mandeln</note>
+          <note>Allergens: 26b Haselnuss</note>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>1- Schokoladenpudding</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+      </category>
+    </day>
+    <day date="2026-01-13">
+      <category name="Vorspeisen">
+        <meal>
+          <name>Salatteller Spezial mit marinierten Sojastreifen und geröstetem Sesam</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Allergens: 31 Sesam</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">4.35</price>
+          <price role="other">4.75</price>
+          <price role="student">3.95</price>
+        </meal>
+        <meal>
+          <name>Rote Linsen-Reis-Bowl mit Erdnuss-Dressing und geröstetem Kokos</name>
+          <note>Allergens: 25 Erdnüsse</note>
+          <note>Allergens: 6 konserviert</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">4.35</price>
+          <price role="other">4.75</price>
+          <price role="student">3.95</price>
+        </meal>
+        <meal>
+          <name>Humus - Kichererbsenmus mit frischer Zitrone und Sesampaste</name>
+          <note>Allergens: 10 geschwärzt</note>
+          <note>Allergens: 31 Sesam</note>
+          <note>Allergens: 8 Farbstoff</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">2.15</price>
+          <price role="other">2.35</price>
+          <price role="student">1.95</price>
+        </meal>
+        <meal>
+          <name>Glasnudelsalat mit Minze</name>
+          <note>Allergens: 21a Weizen</note>
+          <note>Allergens: 28 Soja</note>
+          <note>Allergens: 6 konserviert</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">2.15</price>
+          <price role="other">2.35</price>
+          <price role="student">1.95</price>
+        </meal>
+      </category>
+      <category name="Salate">
+        <meal>
+          <name>Große Salatschale</name>
+          <note>Allergens: 13 Süßungsmittel</note>
+          <note>Allergens: 27 Sellerie</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">3.90</price>
+          <price role="other">4.50</price>
+          <price role="student">1.95</price>
+        </meal>
+        <meal>
+          <name>Kleine Salatschale</name>
+          <note>Allergens: 13 Süßungsmittel</note>
+          <note>Allergens: 27 Sellerie</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+      </category>
+      <category name="Suppen">
+        <meal>
+          <name>Karotten-Ingwer-Suppe mit Orange</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+      </category>
+      <category name="Aktionen">
+        <meal>
+          <name>Currywurst mit Pommes frites und Coleslaw</name>
+          <note>Allergens: 14 mit zum Teil fein zerkleinertem Fleischanteil</note>
+          <note>Allergens: 2 Schweinefleisch bzw. mit Gelatine vom Schwein</note>
+          <note>Allergens: 29 Senf</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
+          <note>Nachhaltige Landwirtschaft:  Die Lebensmittel dieses Gerichts stammen aus nachhaltiger Erzeugung.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <price role="employee">7.65</price>
+          <price role="other">8.35</price>
+          <price role="student">6.95</price>
+        </meal>
+        <meal>
+          <name>Pommes frites</name>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.60</price>
+          <price role="other">1.75</price>
+          <price role="student">1.45</price>
+        </meal>
+        <meal>
+          <name>Hausgemachte Vollkorn-Pasta mit Tomatensauce und Tofu</name>
+          <note>Allergens: 21a Weizen</note>
+          <note>Allergens: 27 Sellerie</note>
+          <note>Allergens: 28 Soja</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Nachhaltige Landwirtschaft:  Die Lebensmittel dieses Gerichts stammen aus nachhaltiger Erzeugung.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">3.25</price>
+          <price role="other">3.55</price>
+          <price role="student">2.95</price>
+        </meal>
+        <meal>
+          <name>Pizza Margherita mit frischem Basilikum</name>
+          <note>Allergens: 21a Weizen</note>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Allergens: 36 Hefe</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">5.45</price>
+          <price role="other">5.95</price>
+          <price role="student">4.95</price>
+        </meal>
+      </category>
+      <category name="Essen">
+        <meal>
+          <name>Gemüsepfanne mit chinesischen Nudeln und gerösteten Sonnenblumenkerne</name>
+          <note>Allergens: 21a Weizen</note>
+          <note>Allergens: 27 Sellerie</note>
+          <note>Allergens: 28 Soja</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Klimaessen:  Das Klimaessen setzt sich aus frischen, rein pflanzlichen und nachhaltigen Produkten zusammen.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">5.50</price>
+          <price role="other">6.35</price>
+          <price role="student">2.75</price>
+        </meal>
+        <meal>
+          <name>Vegane Bratwurst an hausgemachter Currysauce</name>
+          <note>Allergens: 29 Senf</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">5.30</price>
+          <price role="other">6.10</price>
+          <price role="student">2.65</price>
+        </meal>
+        <meal>
+          <name>Schweinegulasch Szegediner Art</name>
+          <note>Allergens: 2 Schweinefleisch bzw. mit Gelatine vom Schwein</note>
+          <price role="employee">4.30</price>
+          <price role="other">4.95</price>
+          <price role="student">2.15</price>
+        </meal>
+        <meal>
+          <name>Feijoada - Bohneneintopf mit Räuchertofu, Sojahack und gelbem Reis</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">3.50</price>
+          <price role="other">4.05</price>
+          <price role="student">1.75</price>
+        </meal>
+        <meal>
+          <name>Vanillegrießschnitte mit Zucker, Zimt und Waldbeerensauce</name>
+          <note>Allergens: 21a Weizen</note>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">3.50</price>
+          <price role="other">4.05</price>
+          <price role="student">1.75</price>
+        </meal>
+        <meal>
+          <name>Kokos-Milchreis Himbeersauce</name>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">3.50</price>
+          <price role="other">4.05</price>
+          <price role="student">1.75</price>
+        </meal>
+        <meal>
+          <name>1/2 Kokos-Milchreis Himbeersauce</name>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">2.20</price>
+          <price role="other">2.55</price>
+          <price role="student">1.10</price>
+        </meal>
+      </category>
+      <category name="Beilagen">
+        <meal>
+          <name>Brokkoli</name>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.70</price>
+          <price role="other">1.95</price>
+          <price role="student">0.85</price>
+        </meal>
+        <meal>
+          <name>Schmorkohl</name>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.70</price>
+          <price role="other">1.95</price>
+          <price role="student">0.85</price>
+        </meal>
+        <meal>
+          <name>Kartoffelpüree</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.90</price>
+          <price role="other">2.20</price>
+          <price role="student">0.95</price>
+        </meal>
+        <meal>
+          <name>Petersilienkartoffeln</name>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.70</price>
+          <price role="other">1.95</price>
+          <price role="student">0.85</price>
+        </meal>
+        <meal>
+          <name>Gelber Reis</name>
+          <note>Allergens: 29 Senf</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+      </category>
+      <category name="Desserts">
+        <meal>
+          <name>4- Veganer Joghurt mit Kirschen</name>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>2- Apfel-Zimt-Joghurt</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>3- Erdbeerquark</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
           <name>5 - Naturjoghurt</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
@@ -1812,15 +2095,8 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>4- Veganer Joghurt mit Himbeeren</name>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>1- Schokoladenpudding</name>
+          <name>1- Mandelpudding</name>
+          <note>Allergens: 26a Mandeln</note>
           <note>Allergens: 28 Soja</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
