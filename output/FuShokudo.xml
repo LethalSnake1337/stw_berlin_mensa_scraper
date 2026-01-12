@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-01-11">
-      <closed/>
-    </day>
     <day date="2026-01-12">
       <category name="Vorspeisen">
         <meal>
-          <name>5 Futo Maki mit Karotte, Zucchini und Sesam Mayonnaise</name>
+          <name>5 Futo Maki mit Karotte, Wakame und Gurke</name>
           <note>Allergens: 21a Weizen</note>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
@@ -21,63 +18,11 @@
           <price role="student">3.25</price>
         </meal>
         <meal>
-          <name>5 Futo Maki mit Rettich, Gurke und Schluppen</name>
-          <note>Allergens: 21a Weizen</note>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Allergens: 6 konserviert</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">3.60</price>
-          <price role="other">3.90</price>
-          <price role="student">3.25</price>
-        </meal>
-        <meal>
-          <name>5 Futo Maki mit Avocado, Schluppe und Karotte</name>
-          <note>Allergens: 21a Weizen</note>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Allergens: 6 konserviert</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">3.60</price>
-          <price role="other">3.90</price>
-          <price role="student">3.25</price>
-        </meal>
-        <meal>
-          <name>3 Futo Maki mit Karotte, Zucchini und Sesam Mayonnaise</name>
+          <name>3 Futo Maki mit Karotte, Wakame und Gurke</name>
           <note>Allergens: 21a Weizen</note>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Allergens: 31 Sesam</note>
-          <note>Allergens: 6 konserviert</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">2.40</price>
-          <price role="other">2.60</price>
-          <price role="student">2.15</price>
-        </meal>
-        <meal>
-          <name>3 Futo Maki mit Rettich, Gurke und Schluppen</name>
-          <note>Allergens: 21a Weizen</note>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Allergens: 6 konserviert</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">2.40</price>
-          <price role="other">2.60</price>
-          <price role="student">2.15</price>
-        </meal>
-        <meal>
-          <name>3 Futo Maki mit Avocado, Schluppe und Karotte</name>
-          <note>Allergens: 21a Weizen</note>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
           <note>Allergens: 6 konserviert</note>
           <note>Allergens: 7 Antioxidationsmittel</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
@@ -836,9 +781,8 @@
           <price role="student">0.90</price>
         </meal>
         <meal>
-          <name>Joghurt mit Pflaumen und Sesam</name>
+          <name>Joghurt mit Mango und Minze</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Allergens: 31 Sesam</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
@@ -855,8 +799,9 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Joghurt mit Mango und Minze</name>
+          <name>Joghurt mit Pflaumen und Sesam</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Allergens: 31 Sesam</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
@@ -1553,15 +1498,6 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Joghurt mit Mango und Minze</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
           <name>Joghurt mit Pflaumen und Sesam</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Allergens: 31 Sesam</note>
@@ -1579,9 +1515,21 @@
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
+        <meal>
+          <name>Joghurt mit Mango und Minze</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
       </category>
     </day>
     <day date="2026-01-24">
+      <closed/>
+    </day>
+    <day date="2026-01-25">
       <closed/>
     </day>
   </canteen>
