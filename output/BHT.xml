@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-01-18">
-      <closed/>
-    </day>
     <day date="2026-01-19">
       <category name="Vorspeisen">
         <meal>
@@ -63,9 +60,11 @@
       </category>
       <category name="Essen">
         <meal>
-          <name>3 Geröstete Curry-Karotten mit Erdnuss-Chili Sauce</name>
-          <note>Allergens: 25 Erdnüsse</note>
-          <note>Allergens: 29 Senf</note>
+          <name>5 Tomaten-Weizen-Bällchen in Tomatensauce</name>
+          <note>Allergens: 21a Weizen</note>
+          <note>Allergens: 32 Schwefeldioxid und Sulfide</note>
+          <note>Allergens: 6 konserviert</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.90</price>
@@ -73,12 +72,9 @@
           <price role="student">1.95</price>
         </meal>
         <meal>
-          <name>5 Tomaten-Weizen-Bällchen in Tomatensauce</name>
-          <note>Allergens: 21a Weizen</note>
-          <note>Allergens: 32 Schwefeldioxid und Sulfide</note>
-          <note>Allergens: 6 konserviert</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <name>3 Geröstete Curry-Karotten mit Schnittlauch Dip</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Allergens: 29 Senf</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.90</price>
           <price role="other">4.50</price>
@@ -93,7 +89,10 @@
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>Kartoffelpfanne mit Karotten, Sonnenblumenkernen und Schnittlauch Dip</name>
+          <name>Kartoffelpfanne mit Karotten, Sonnenblumenkernen und Remoulade</name>
+          <note>Allergens: 13 Süßungsmittel</note>
+          <note>Allergens: 29 Senf</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">4.90</price>
@@ -1676,6 +1675,9 @@
       </category>
     </day>
     <day date="2026-01-31">
+      <closed/>
+    </day>
+    <day date="2026-02-01">
       <closed/>
     </day>
   </canteen>

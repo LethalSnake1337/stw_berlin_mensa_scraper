@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-01-18">
-      <closed/>
-    </day>
     <day date="2026-01-19">
       <category name="Vorspeisen">
         <meal>
-          <name>5 Futo Maki mit Rettich, Gurke und Schluppen</name>
+          <name>5 Futo Maki mit Karotten, Avocado und Schluppen</name>
           <note>Allergens: 21a Weizen</note>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
@@ -20,7 +17,7 @@
           <price role="student">3.25</price>
         </meal>
         <meal>
-          <name>3 Futo Maki mit Rettich, Gurke und Schluppen</name>
+          <name>3 Futo Maki mit Karotte, Avocado und Schluppen</name>
           <note>Allergens: 21a Weizen</note>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
@@ -683,19 +680,19 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Joghurt mit Pflaumen und Sesam</name>
+          <name>Quark mit Erdbeeren</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Allergens: 31 Sesam</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Quark mit Erdbeeren</name>
+          <name>Joghurt mit Pflaumen und Sesam</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Allergens: 31 Sesam</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1561,16 +1558,6 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Joghurt mit Pflaumen und Sesam</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Allergens: 31 Sesam</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
           <name>Veganer Joghurt mit Himbeeren</name>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
@@ -1587,9 +1574,22 @@
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
+        <meal>
+          <name>Joghurt mit Pflaumen und Sesam</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Allergens: 31 Sesam</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
       </category>
     </day>
     <day date="2026-01-31">
+      <closed/>
+    </day>
+    <day date="2026-02-01">
       <closed/>
     </day>
   </canteen>
