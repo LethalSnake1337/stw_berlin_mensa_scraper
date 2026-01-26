@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-01-25">
-      <closed/>
-    </day>
     <day date="2026-01-26">
       <category name="Vorspeisen">
         <meal>
@@ -82,9 +79,13 @@
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>Kartoffelpfanne mit Pilzen und Petersilien-Knoblauch-Dip</name>
+          <name>Kartoffelpfanne mit Pilzen mit Apfel-Zwiebel-Dip</name>
+          <note>Allergens: 13 Süßungsmittel</note>
+          <note>Allergens: 29 Senf</note>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">5.70</price>
           <price role="other">6.55</price>
           <price role="student">2.85</price>
@@ -100,12 +101,12 @@
           <price role="student">0.85</price>
         </meal>
         <meal>
-          <name>Kartoffeln</name>
+          <name>Backkartoffeln</name>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">1.70</price>
-          <price role="other">1.95</price>
-          <price role="student">0.85</price>
+          <price role="employee">1.90</price>
+          <price role="other">2.20</price>
+          <price role="student">0.95</price>
         </meal>
         <meal>
           <name>Tomatenreis</name>
@@ -1061,8 +1062,13 @@
       </category>
       <category name="Essen">
         <meal>
-          <name>Putenbraten mit pikanter Paprika-Tomatensauce</name>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <name>Bratwurst mit Senf mit Bratensauce</name>
+          <note>Allergens: 2 Schweinefleisch bzw. mit Gelatine vom Schwein</note>
+          <note>Allergens: 27 Sellerie</note>
+          <note>Allergens: 28 Soja</note>
+          <note>Allergens: 29 Senf</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Nachhaltige Landwirtschaft:  Die Lebensmittel dieses Gerichts stammen aus nachhaltiger Erzeugung.</note>
           <price role="employee">5.90</price>
           <price role="other">6.80</price>
           <price role="student">2.95</price>
@@ -1088,7 +1094,7 @@
       </category>
       <category name="Beilagen">
         <meal>
-          <name>Erbsen-Mais-Gemüse</name>
+          <name>Sauerkraut</name>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.70</price>
@@ -1096,7 +1102,8 @@
           <price role="student">0.85</price>
         </meal>
         <meal>
-          <name>Backkartoffeln</name>
+          <name>Kartoffelpüree</name>
+          <note>Allergens: 28 Soja</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.90</price>
@@ -1104,8 +1111,7 @@
           <price role="student">0.95</price>
         </meal>
         <meal>
-          <name>Gelber Reis</name>
-          <note>Allergens: 29 Senf</note>
+          <name>Reis</name>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
@@ -1402,13 +1408,8 @@
       </category>
       <category name="Essen">
         <meal>
-          <name>Bratwurst mit Senf mit Bratensauce</name>
-          <note>Allergens: 2 Schweinefleisch bzw. mit Gelatine vom Schwein</note>
-          <note>Allergens: 27 Sellerie</note>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
-          <note>Nachhaltige Landwirtschaft:  Die Lebensmittel dieses Gerichts stammen aus nachhaltiger Erzeugung.</note>
+          <name>Putenbraten mit pikanter Paprika-Tomatensauce</name>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <price role="employee">5.90</price>
           <price role="other">6.80</price>
           <price role="student">2.95</price>
@@ -1436,7 +1437,7 @@
       </category>
       <category name="Beilagen">
         <meal>
-          <name>Sauerkraut</name>
+          <name>Erbsen-Mais-Gemüse</name>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.70</price>
@@ -1444,8 +1445,7 @@
           <price role="student">0.85</price>
         </meal>
         <meal>
-          <name>Kartoffelpüree</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Backkartoffeln</name>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.90</price>
@@ -1453,7 +1453,8 @@
           <price role="student">0.95</price>
         </meal>
         <meal>
-          <name>Reis</name>
+          <name>Gelber Reis</name>
+          <note>Allergens: 29 Senf</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
@@ -1655,6 +1656,9 @@
       </category>
     </day>
     <day date="2026-02-07">
+      <closed/>
+    </day>
+    <day date="2026-02-08">
       <closed/>
     </day>
   </canteen>
