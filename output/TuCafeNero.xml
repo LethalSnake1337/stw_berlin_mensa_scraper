@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-02-06">
+    <day date="2026-02-07">
       <category name="Mittagstisch">
         <meal>
           <name>cafeneroindenuniversitätsbibliothekendertuundudkberlin</name>
         </meal>
       </category>
-      <category name="mittagstisch – donnerstag 05. februar 2026 von 12:00 bis 17:00 uhr rg">
+      <category name="mittagstisch – freitag 06. februar 2026 von 12:00 bis 17:00 uhr rg">
         <meal>
           <name>kleine portion suppe</name>
           <price role="other">5.00</price>
@@ -15,6 +15,10 @@
         <meal>
           <name>kleine portion nudeln</name>
           <price role="other">6.00</price>
+        </meal>
+        <meal>
+          <name>beilagensalat</name>
+          <price role="other">2.80</price>
         </meal>
         <meal>
           <name>pellkartoffeln mit butter oder kräuterquark + leinoel und gemischtem salat vegetarisch je</name>
@@ -27,31 +31,37 @@
           <price role="other">6.80</price>
         </meal>
         <meal>
-          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! kartoffel-weißkohlsuppe mit tomaten-chili-dip möhrenraspeln, koriander, lauchzwiebeln, zwiebelbrot vegetarisch</name>
-          <note>vegetarisch</note>
+          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! orientalische kichererbsen-suppe mit tahini-datteldip möhrenraspeln, petersilie, lauchzwiebeln, zwiebelbrot vegan</name>
+          <note>vegan</note>
           <price role="other">6.00</price>
         </meal>
         <meal>
-          <name>spaghetti mit champignons + steinpilzen, (auch mit speck) balsamicosauce, lauchzwiebeln, petersilie, parmesankäse schweinfleisch</name>
+          <name>spaghetti bolognese mit frühlingszwiebeln, petersilie und parmesankäse rindfleisch</name>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>spaghetti mit tomaten-käse-sauce möhrenraspeln, lauchzwiebel, petersilie + (parmesan) vegetarisch / käse mit lab</name>
-          <note>vegetarisch</note>
-          <price role="other">7.00</price>
-        </meal>
-        <meal>
-          <name>spaghetti mit pesto genovese + (parmesankäse) vegan / käse mit lab</name>
+          <name>spaghetti mit tomaten-artischocken-sauce, möhrenraspeln, petersilie, rucola und (parmesankäse) vegan / käse mit lab</name>
           <note>vegan</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>broccoli kartoffel-erbsen-pfanne, mit (chili hüttenkäse dip) petersilie und beilagensalat mit granatapfeldressing vegan</name>
+          <name>spaghetti mit pesto genovese und (parmesankäse) vegan / käse mit lab</name>
           <note>vegan</note>
-          <price role="other">9.00</price>
+          <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>scheiben von der entenbrust mit charlotten-balsamico- honig-jus, polenta-ecken und gegrillter hokkaidokürbis geflügelfleisch</name>
+          <name>spaghetti aglio e olio e peperoncini + (parmesankäse) vegan / käse mit lab</name>
+          <note>vegan</note>
+          <price role="other">7.00</price>
+        </meal>
+        <meal>
+          <name>spaghetti mit salbeioel und (parmesankäse) vegan / käse mit lab</name>
+          <note>vegan</note>
+          <price role="other">7.00</price>
+        </meal>
+        <meal>
+          <name>fjordlachs mit tomaten- hollandaise auf rosmarin-röstkartoffeln und blumenkohl fisch</name>
+          <note>fisch</note>
           <price role="other">10.00</price>
         </meal>
       </category>
