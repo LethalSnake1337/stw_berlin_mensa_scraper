@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-02-07">
-      <closed/>
-    </day>
     <day date="2026-02-08">
       <closed/>
     </day>
@@ -83,9 +80,8 @@
           <price role="student">2.15</price>
         </meal>
         <meal>
-          <name>Spinat Curry mit Kichererbsen, Räuchertofu und gelbem Reis</name>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
+          <name>Kartoffelgulasch mit Weißkohl und Petersilie</name>
+          <note>Allergens: 27 Sellerie</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.50</price>
@@ -93,8 +89,9 @@
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>Kartoffelgulasch mit Weißkohl und Petersilie</name>
-          <note>Allergens: 27 Sellerie</note>
+          <name>Spinat Curry mit Kichererbsen, Räuchertofu und gelbem Reis</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Allergens: 29 Senf</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.50</price>
@@ -1678,6 +1675,9 @@
           <price role="student">0.75</price>
         </meal>
       </category>
+    </day>
+    <day date="2026-02-21">
+      <closed/>
     </day>
   </canteen>
 </openmensa>
