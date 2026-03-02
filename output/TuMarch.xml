@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-03-01">
-      <closed/>
-    </day>
     <day date="2026-03-02">
       <category name="Vorspeisen">
         <meal>
@@ -40,19 +37,6 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Sauce Vinaigrette</name>
-          <note>Allergens: 29 Senf</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
-          <name>French-Dressing</name>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
           <name>Kräuter-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -60,6 +44,19 @@
         </meal>
         <meal>
           <name>American-Dressing</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Allergens: 29 Senf</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
+          <name>Sauce Vinaigrette</name>
+          <note>Allergens: 29 Senf</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
+          <name>French-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -190,6 +187,12 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
+          <name>Kräuter-Dressing</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
           <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -199,12 +202,6 @@
           <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
-          <name>Kräuter-Dressing</name>
-          <note>Allergens: 28 Soja</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
@@ -344,19 +341,6 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Sauce Vinaigrette</name>
-          <note>Allergens: 29 Senf</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
-          <name>French-Dressing</name>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
           <name>Kräuter-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -364,6 +348,19 @@
         </meal>
         <meal>
           <name>American-Dressing</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Allergens: 29 Senf</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
+          <name>Sauce Vinaigrette</name>
+          <note>Allergens: 29 Senf</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
+          <name>French-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -500,7 +497,13 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>French-Dressing</name>
+          <name>Kräuter-Dressing</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
+          <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -513,13 +516,7 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>Kräuter-Dressing</name>
-          <note>Allergens: 28 Soja</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
-          <name>American-Dressing</name>
+          <name>French-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -656,6 +653,12 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
+          <name>Sauce Vinaigrette</name>
+          <note>Allergens: 29 Senf</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
           <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
@@ -665,12 +668,6 @@
         <meal>
           <name>French-Dressing</name>
           <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
-          <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
@@ -792,18 +789,6 @@
           <price role="other">4.75</price>
           <price role="student">3.95</price>
         </meal>
-        <meal>
-          <name>Risone-Weiße Bohnen-Bowl mit Tomaten-Zitronen Dressing und getrockneten Tomaten</name>
-          <note>Allergens: 21a Weizen</note>
-          <note>Allergens: 32 Schwefeldioxid und Sulfide</note>
-          <note>Allergens: 6 konserviert</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">4.35</price>
-          <price role="other">4.75</price>
-          <price role="student">3.95</price>
-        </meal>
       </category>
       <category name="Salate">
         <meal>
@@ -835,15 +820,15 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>Kräuter-Dressing</name>
+          <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
+          <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>American-Dressing</name>
+          <name>Kräuter-Dressing</name>
           <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
@@ -958,17 +943,6 @@
           <price role="other">5.95</price>
           <price role="student">4.95</price>
         </meal>
-        <meal>
-          <name>Linsen-Reis-Bowl mit Curry-Mango Dressing und schwarzem Sesam</name>
-          <note>Allergens: 29 Senf</note>
-          <note>Allergens: 31 Sesam</note>
-          <note>Allergens: 6 konserviert</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">4.35</price>
-          <price role="other">4.75</price>
-          <price role="student">3.95</price>
-        </meal>
       </category>
       <category name="Salate">
         <meal>
@@ -994,8 +968,14 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>American-Dressing</name>
+          <name>French-Dressing</name>
           <note>Allergens: 28 Soja</note>
+          <note>Allergens: 29 Senf</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
+          <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
@@ -1007,14 +987,8 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>French-Dressing</name>
+          <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
-          <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
@@ -1122,14 +1096,6 @@
           <price role="other">4.75</price>
           <price role="student">3.95</price>
         </meal>
-        <meal>
-          <name>Quinoa-Rote Bohnen-Bowl mit Tomaten-Zitronen-Dressing</name>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">4.35</price>
-          <price role="other">4.75</price>
-          <price role="student">3.95</price>
-        </meal>
       </category>
       <category name="Salate">
         <meal>
@@ -1155,8 +1121,9 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Kräuter-Dressing</name>
+          <name>French-Dressing</name>
           <note>Allergens: 28 Soja</note>
+          <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
@@ -1167,14 +1134,13 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>American-Dressing</name>
+          <name>Kräuter-Dressing</name>
           <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>French-Dressing</name>
+          <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -1281,18 +1247,6 @@
           <price role="other">5.95</price>
           <price role="student">4.95</price>
         </meal>
-        <meal>
-          <name>Kichererbsen-Hirse-Bowl mit Sesam-Zitronen Dressing und gerösteten Mandeln</name>
-          <note>Allergens: 26a Mandeln</note>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 31 Sesam</note>
-          <note>Allergens: 6 konserviert</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">4.35</price>
-          <price role="other">4.75</price>
-          <price role="student">3.95</price>
-        </meal>
       </category>
       <category name="Salate">
         <meal>
@@ -1318,14 +1272,13 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>American-Dressing</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>French-Dressing</name>
+          <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -1338,7 +1291,8 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>Sauce Vinaigrette</name>
+          <name>French-Dressing</name>
+          <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
@@ -1450,16 +1404,6 @@
           <price role="other">5.95</price>
           <price role="student">4.95</price>
         </meal>
-        <meal>
-          <name>Rote Linsen-Reis-Bowl mit Erdnuss-Dressing und geröstetem Kokos</name>
-          <note>Allergens: 25 Erdnüsse</note>
-          <note>Allergens: 6 konserviert</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">4.35</price>
-          <price role="other">4.75</price>
-          <price role="student">3.95</price>
-        </meal>
       </category>
       <category name="Salate">
         <meal>
@@ -1485,20 +1429,13 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>American-Dressing</name>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
           <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>French-Dressing</name>
+          <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
@@ -1507,6 +1444,13 @@
         <meal>
           <name>Kräuter-Dressing</name>
           <note>Allergens: 28 Soja</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
+          <name>French-Dressing</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Allergens: 29 Senf</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
@@ -1602,6 +1546,9 @@
       </category>
     </day>
     <day date="2026-03-14">
+      <closed/>
+    </day>
+    <day date="2026-03-15">
       <closed/>
     </day>
   </canteen>
