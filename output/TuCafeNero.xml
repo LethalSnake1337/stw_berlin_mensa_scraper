@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-03-06">
+    <day date="2026-03-07">
       <category name="Mittagstisch">
         <meal>
           <name>cafeneroindenuniversitätsbibliothekendertuundudkberlin</name>
         </meal>
       </category>
-      <category name="mittagstisch – donnerstag 05. märz 2026 von 12:00 bis 17:00 uhr rg">
+      <category name="mittagstisch – freitag 06. märz 2026 von 12:00 bis 17:00 uhr rg">
         <meal>
           <name>kleine portion suppe</name>
           <price role="other">5.00</price>
@@ -15,6 +15,10 @@
         <meal>
           <name>kleine portion nudeln</name>
           <price role="other">6.00</price>
+        </meal>
+        <meal>
+          <name>beilagensalat</name>
+          <price role="other">2.80</price>
         </meal>
         <meal>
           <name>pellkartoffeln mit butter oder kräuterquark + leinoel und gemischtem salat vegetarisch je</name>
@@ -27,31 +31,32 @@
           <price role="other">6.80</price>
         </meal>
         <meal>
-          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! süßkartoffelsuppe mit (ziegenkäse-kräuter-dip,) möhrenraspeln, koriander, lauchzwiebeln, zwiebelbrot vegan</name>
-          <note>vegan</note>
+          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! tomaten-suppe mit erbsen + kichererbsen +rote linsen möhrenraspeln, petersilie, lauchzwiebeln, zwiebelbrot vegetarisch</name>
+          <note>vegetarisch</note>
           <price role="other">6.00</price>
         </meal>
         <meal>
-          <name>fusilli mit shrimps, gemüse, kerbel, lauchzwiebeln, petersilie shrimps</name>
+          <name>spaghetti mit bolognese lauchzwiebeln, petersilie und parmesankäse rindfleisch</name>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>fusilli mit veganer fenchel-orangen- sauce, möhrenraspeln, petersilie und lauchzwiebeln vegan</name>
-          <note>vegan</note>
-          <price role="other">7.00</price>
-        </meal>
-        <meal>
-          <name>fusilli mit pesto genovese + (parmesankäse) vegan / käse mit lab</name>
-          <note>vegan</note>
-          <price role="other">7.00</price>
-        </meal>
-        <meal>
-          <name>pilz-pfanne, mit balsamico-kräutersauce, auf bandnudeln und beilagensalat mit passionsfruchtdressing vegetarisch</name>
+          <name>spaghetti mit ricotta-sahnesauce möhrenraspeln, petersilie rucola und parmesankäse vegetarisch</name>
           <note>vegetarisch</note>
-          <price role="other">9.00</price>
+          <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>rindergulasch mit spätzle und rotkohl mit portwein rindfleisch</name>
+          <name>spaghetti mit baby-spinat-pesto und (parmesankäse) vegan / käse mit lab</name>
+          <note>vegan</note>
+          <price role="other">7.00</price>
+        </meal>
+        <meal>
+          <name>spaghetti mit salbei-oliven-öl und parmesankäse vegan käse mit lab 7,00 spaghetti mit aglio olio mit peperoncini und parmesan vegan / käse mit lab</name>
+          <note>vegan</note>
+          <price role="other">7.00</price>
+        </meal>
+        <meal>
+          <name>knurrhahnfilet mit senf-dill-kapern-sauce auf schnittlauch-kartoffelstampf mit broccoli+blumenkohl fisch</name>
+          <note>fisch</note>
           <price role="other">10.00</price>
         </meal>
       </category>
