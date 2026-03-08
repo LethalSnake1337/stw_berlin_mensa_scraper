@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-03-07">
-      <closed/>
-    </day>
     <day date="2026-03-08">
       <closed/>
     </day>
@@ -857,6 +854,8 @@
           <name>Gnocchi mit Käse-Sahne-Sauce, Röstzwiebeln und Lauch</name>
           <note>Allergens: 21a Weizen</note>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">4.35</price>
@@ -869,6 +868,8 @@
           <name>Gebackenes Seelachsfilet in Reispanade mit Curry-Mango Sauce</name>
           <note>Allergens: 24 Fisch</note>
           <note>Allergens: 29 Senf</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Nachhaltige Fischerei:  Es wird auf eine bestandsschonende Fischerei und nachhaltige Fangmethoden geachtet.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <price role="employee">5.90</price>
@@ -884,6 +885,8 @@
           <note>Allergens: 32 Schwefeldioxid und Sulfide</note>
           <note>Allergens: 7 Antioxidationsmittel</note>
           <note>Allergens: 8 Farbstoff</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">4.30</price>
@@ -1965,6 +1968,9 @@
           <price role="student">0.75</price>
         </meal>
       </category>
+    </day>
+    <day date="2026-03-21">
+      <closed/>
     </day>
   </canteen>
 </openmensa>
