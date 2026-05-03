@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-02">
+    <day date="2026-05-03">
       <category name="Mittagstisch">
         <meal>
           <name>cafeneroindenuniversitätsbibliothekendertuundudkberlin</name>
         </meal>
       </category>
-      <category name="mittagstisch – donnerstag 30. april 2026 von 12:00 bis 17:00 uhr rg">
+      <category name="mittagstisch – samstag 02. und sonntag 03. mai 2026 von 12:00 bis 16:00 uhr rg">
         <meal>
           <name>kleine portion suppe</name>
           <price role="other">5.00</price>
@@ -15,6 +15,10 @@
         <meal>
           <name>kleine portion nudeln</name>
           <price role="other">6.00</price>
+        </meal>
+        <meal>
+          <name>beilagensalat</name>
+          <price role="other">2.80</price>
         </meal>
         <meal>
           <name>pellkartoffeln mit butter oder kräuterquark + leinoel und gemischtem salat vegetarisch je</name>
@@ -27,9 +31,13 @@
           <price role="other">6.80</price>
         </meal>
         <meal>
-          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! zucchinisuppe mit manderine mit möhrenraspel, petersilie, lauchzwiebel, zwiebelbrot vegan</name>
+          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! zucchinisuppe mit mandarine mit möhrenraspel, petersilie, lauchzwiebel, zwiebelbrot vegan</name>
           <note>vegan</note>
           <price role="other">6.00</price>
+        </meal>
+        <meal>
+          <name>fusilli bolognese mit frühlingszwiebeln, petersilie und parmesankäse rindfleisch</name>
+          <price role="other">7.00</price>
         </meal>
         <meal>
           <name>fusilli mit steinpilz-creme-sauce (auf wunsch mit speck vom schwein) möhrenraspel, lauchzwiebel, petersilie+(parmesankäse) vegan / käse mit lab</name>
@@ -50,10 +58,6 @@
           <name>maultaschen mit geschmelzten butter- zwiebeln + gemischtem salat mit zitronen-sahne-dressing vegetarisch</name>
           <note>vegetarisch</note>
           <price role="other">9.00</price>
-        </meal>
-        <meal>
-          <name>fricassé vom huhn auf basmatireis mit erbsen, möhren, champignon, spargel geflügelfleisch</name>
-          <price role="other">10.00</price>
         </meal>
       </category>
     </day>
