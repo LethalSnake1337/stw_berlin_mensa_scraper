@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-05-28">
+    <day date="2026-05-29">
       <category name="Mittagstisch">
         <meal>
           <name>cafeneroindenuniversitätsbibliothekendertuundudkberlin</name>
         </meal>
       </category>
-      <category name="mittagstisch – donnerstag 28. mai 2026 von 12:00 bis 17:00 uhr rg">
+      <category name="mittagstisch – freitag 29. mai 2026 von 12:00 bis 17:00 uhr rg">
         <meal>
           <name>kleine portion suppe</name>
           <price role="other">5.00</price>
@@ -15,6 +15,10 @@
         <meal>
           <name>kleine portion nudeln</name>
           <price role="other">6.00</price>
+        </meal>
+        <meal>
+          <name>beilagensalat</name>
+          <price role="other">2.80</price>
         </meal>
         <meal>
           <name>pellkartoffeln mit butter oder kräuterquark + leinoel und gemischtem salat vegetarisch je</name>
@@ -27,30 +31,40 @@
           <price role="other">6.80</price>
         </meal>
         <meal>
-          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! blumenkohlsuppe mit mango-chili-dip möhrenraspeln, koriander, lauchzwiebeln, zwiebelbrot vegan</name>
+          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! rote-linsen-gemüse-suppe mit möhrenraspeln, petersilie, lauchzwiebeln, zwiebelbrot vegan</name>
           <note>vegan</note>
           <price role="other">6.00</price>
         </meal>
         <meal>
-          <name>fusilli carbonara alemania (kochschinken, speck, zwiebel, ei, sahne) mit frühlingszwiebeln, petersilie und parmesankäse schweinefleisch</name>
+          <name>spaghetti bolognese mit frühlingszwiebeln, petersilie und parmesankäse rindfleisch</name>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>fusilli mit spinat in blauschimmel- sahnesauce mit möhrenraspeln, petersilie vegetarisch / käse mit lab</name>
+          <name>spaghetti mit veganer tomaten-sahnesauce möhrenraspeln, petersilie rucola und parmesankäse vegetarisch</name>
+          <note>vegan</note>
           <note>vegetarisch</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>fusilli mit auberginen-pesto + (parmesankäse) vegan / käse mit lab</name>
+          <name>spaghetti mit spinat-pesto + (parmesan) vegan / käse mit lab</name>
           <note>vegan</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>garnelenspieße mit avocadodip, ofenkartoffel und beilagensalat garnelen</name>
-          <price role="other">9.00</price>
+          <name>spaghetti scharfe chili knoblauch sahne sauce peperoncini mit petersilie und (parmesankäse) vegan / mit käse vegetarisch</name>
+          <note>vegan</note>
+          <note>vegetarisch</note>
+          <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>fricassée von der gans mit champignons, möhren, erbsen, spargel auf basmatireis geflügelfleisch</name>
+          <name>spaghetti mit salbeiolivenoel und (parmesankäse) vegan / mit käse vegetarisch</name>
+          <note>vegan</note>
+          <note>vegetarisch</note>
+          <price role="other">7.00</price>
+        </meal>
+        <meal>
+          <name>fisch-gemüsecurry (lachsforelle,seelachs,seehecht) mit limettenblättern-sauce auf basmatireis mit zucchini chinakohl thai basilikum fisch</name>
+          <note>fisch</note>
           <price role="other">10.00</price>
         </meal>
       </category>
