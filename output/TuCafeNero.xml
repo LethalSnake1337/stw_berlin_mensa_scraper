@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-06-18">
+    <day date="2026-06-19">
       <category name="Mittagstisch">
         <meal>
           <name>cafeneroindenuniversitätsbibliothekendertuundudkberlin</name>
         </meal>
       </category>
-      <category name="mittagstisch – donnerstag 18. juni 2026 von 12:00 bis 17:00 uhr rg">
+      <category name="mittagstisch – freitag 19. juni 2026 von 12:00 bis 17:00 uhr rg">
         <meal>
           <name>kleine portion suppe</name>
           <price role="other">5.00</price>
@@ -15,6 +15,10 @@
         <meal>
           <name>kleine portion nudeln</name>
           <price role="other">6.00</price>
+        </meal>
+        <meal>
+          <name>beilagensalat</name>
+          <price role="other">2.80</price>
         </meal>
         <meal>
           <name>pellkartoffeln mit butter oder kräuterquark + leinoel und gemischtem salat vegetarisch je</name>
@@ -27,31 +31,39 @@
           <price role="other">6.80</price>
         </meal>
         <meal>
-          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! zucchini-creme-suppe mit möhrenraspel, koriander, lauchzwiebel, zwiebelbrot vegan</name>
+          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! gazpacho kalte tomaten-gemüse-suppe mit möhrenraspel, petersilie, lauchzwiebel, zwiebelbrot vegan</name>
           <note>vegan</note>
           <price role="other">6.00</price>
         </meal>
         <meal>
-          <name>fusilli mit chorizo in tomaten+ gemüse sauce möhrenraspel, lauchzwiebel, petersilie + parmesankäse schweinefleisch</name>
+          <name>spaghetti bolognese mit frühlingszwiebel, petersilie und parmesankäse rindfleisch</name>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>fusilli mit blumenkohlsauce möhrenraspel, lauchzwiebel, petersilie und (parmesan) vegan / käse mit lab</name>
+          <name>spaghetti süsskartoffel cocos sauce möhrenraspel, petersilie rucola und parmesankäse vegan</name>
           <note>vegan</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>fusilli mit petersilien-pesto mit walnuss+(parmesankäse) vegan / käse mit lab</name>
+          <name>spaghetti mit tomaten-pesto + (parmesankäse) vegan / käse mit lab</name>
           <note>vegan</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>käsetortellini mit tomaten-manchego-sauce mit möhrenraspel, lauchzwiebel, und beilagensalat vegetarisch</name>
+          <name>spaghetti aglio e olio e peperoncini mit petersilie und (parmesankäse) vegan / mit käse vegetarisch</name>
+          <note>vegan</note>
           <note>vegetarisch</note>
-          <price role="other">9.00</price>
+          <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>rehgulasch mit eierspätzle + orangenrotkohl mit portwein rehfleisch</name>
+          <name>spaghetti mit salbeiolivenoel und (parmesankäse) vegan / mit käse vegetarisch</name>
+          <note>vegan</note>
+          <note>vegetarisch</note>
+          <price role="other">7.00</price>
+        </meal>
+        <meal>
+          <name>lachsfilet mit nußbutter-miso-soja-sauce, salzkartoffel, broccoli fisch</name>
+          <note>fisch</note>
           <price role="other">10.00</price>
         </meal>
       </category>
