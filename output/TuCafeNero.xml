@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-07-09">
+    <day date="2026-07-10">
       <category name="Mittagstisch">
         <meal>
           <name>cafeneroindenuniversitätsbibliothekendertuundudkberlin</name>
         </meal>
       </category>
-      <category name="mittagstisch – donnerstag 09. juli 2026 von 12:00 bis 17:00 uhr rg">
+      <category name="mittagstisch – freitag 10. juli 2026 von 12:00 bis 17:00 uhr rg">
         <meal>
           <name>kleine portion suppe</name>
           <price role="other">5.00</price>
@@ -15,6 +15,10 @@
         <meal>
           <name>kleine portion nudeln</name>
           <price role="other">6.00</price>
+        </meal>
+        <meal>
+          <name>beilagensalat</name>
+          <price role="other">2.80</price>
         </meal>
         <meal>
           <name>pellkartoffeln mit butter oder kräuterquark + leinoel und gemischtem salat vegetarisch je</name>
@@ -27,31 +31,40 @@
           <price role="other">6.80</price>
         </meal>
         <meal>
-          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! steinpilz-kartoffel-suppe mit möhrenraspel, petersilie, lauchzwiebel, zwiebelbrot vegan</name>
+          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! kohlrabi-creme-suppe mit spinatstreifen, möhrenraspel, petersilie, lauchzwiebel, zwiebelbrot vegan</name>
           <note>vegan</note>
           <price role="other">6.00</price>
         </meal>
         <meal>
-          <name>spaghetti broccoli sauce ( auf wunsch kochschinken, zwiebel,) möhrenraspel, lauchzwiebel, petersilie + parmesankäse schweinfleisch</name>
+          <name>spaghetti bolognese mit frühlingszwiebel, petersilie und parmesankäse rindfleisch</name>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>spaghetti mit paprika-sauce möhrenraspel, lauchzwiebel, petersilie, (parmesankäse) vegan / käse mit lab</name>
+          <name>spaghetti mit veganer tomaten-sahnesauce möhrenraspel, petersilie rucola und parmesankäse vegetarisch</name>
+          <note>vegan</note>
+          <note>vegetarisch</note>
+          <price role="other">7.00</price>
+        </meal>
+        <meal>
+          <name>spaghetti mit auberginen-walnuß-pesto + (parmesan) vegan / käse mit lab</name>
           <note>vegan</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>spaghetti mit knoblauchkräutersauce + (parmesankäse) vegan / käse mit lab</name>
+          <name>spaghetti aglio e olio e peperoncini mit petersilie und (parmesankäse) vegan / mit käse vegetarisch</name>
           <note>vegan</note>
+          <note>vegetarisch</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>gemüsecurry mit zwiebeln spinat, +ananas + sojahack auf basmatireis und beilagensalat mit himbeerdressing vegan</name>
+          <name>spaghetti mit salbeiolivenoel und (parmesankäse) vegan / mit käse vegetarisch</name>
           <note>vegan</note>
-          <price role="other">9.00</price>
+          <note>vegetarisch</note>
+          <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>rindergeschnetzeltes mit weißwein-safran-sauce auf bandnudeln mit broccoli, paprika, roten zwiebeln rind</name>
+          <name>fischgemüsecurry (seelachs, saibling, lachsforelle, heilbutt) mit koriander auf basmati-kurkuma-reis mit gemischtem salat fisch</name>
+          <note>fisch</note>
           <price role="other">10.00</price>
         </meal>
       </category>
