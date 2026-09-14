@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-13">
-      <closed/>
-    </day>
     <day date="2026-09-14">
       <category name="Vorspeisen">
         <meal>
@@ -58,12 +55,10 @@
       </category>
       <category name="Aktionen">
         <meal>
-          <name>Fusili mit Spinatsauce, Tomaten und gerösteten Walnüssen</name>
+          <name>Radiatori mit Spinatsauce, Tomaten und gerösteten Cashews</name>
           <note>Allergens: 21a Weizen</note>
-          <note>Allergens: 26c Walnuss</note>
+          <note>Allergens: 26d Kaschunuss</note>
           <note>Allergens: 28 Soja</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.25</price>
@@ -98,9 +93,10 @@
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>Kartoffelpfanne mit Karotten, Sonnenblumenkernen und Schnittlauch Dip</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <name>Kartoffelpfanne mit Karotten, Sonnenblumenkernen und Remoulade</name>
+          <note>Allergens: 13 Süßungsmittel</note>
+          <note>Allergens: 29 Senf</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">5.30</price>
@@ -110,10 +106,7 @@
       </category>
       <category name="Beilagen">
         <meal>
-          <name>Buntes Zucchinigemüse</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <name>Karotten-Erbsen-Mais-Gemüse</name>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.70</price>
           <price role="other">1.95</price>
@@ -175,7 +168,7 @@
           <price role="student">1.50</price>
         </meal>
         <meal>
-          <name>Pflaumenkuchen mit Streusel und Zuckerguss</name>
+          <name>Apfelkuchen mit Streusel und Zuckerguss</name>
           <note>Allergens: 21a Weizen</note>
           <note>Allergens: 23 Eier</note>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
@@ -768,10 +761,9 @@
           <price role="student">0.30</price>
         </meal>
         <meal>
-          <name>Mayonnaise</name>
+          <name>Tomatenketchup</name>
           <note>Allergens: 29 Senf</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
@@ -780,9 +772,10 @@
           <price role="student">0.15</price>
         </meal>
         <meal>
-          <name>Tomatenketchup</name>
+          <name>Mayonnaise</name>
           <note>Allergens: 29 Senf</note>
-          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
@@ -2034,6 +2027,9 @@
       </category>
     </day>
     <day date="2026-09-26">
+      <closed/>
+    </day>
+    <day date="2026-09-27">
       <closed/>
     </day>
   </canteen>

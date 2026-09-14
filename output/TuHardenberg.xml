@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-09-13">
-      <closed/>
-    </day>
     <day date="2026-09-14">
       <category name="Vorspeisen">
         <meal>
@@ -46,7 +43,8 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Sauce Vinaigrette</name>
+          <name>American-Dressing</name>
+          <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -54,8 +52,7 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>American-Dressing</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -74,9 +71,9 @@
       </category>
       <category name="Suppen">
         <meal>
-          <name>Tomatensuppe mit Basilikum</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
+          <name>Bunte Kartoffelsuppe mit Pilzen</name>
+          <note>Allergens: 27 Sellerie</note>
+          <note>Allergens: 28 Soja</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
@@ -86,7 +83,7 @@
       </category>
       <category name="Aktionen">
         <meal>
-          <name>Hausgemachte Kurkuma Pasta mit Tomatensauce, getrockneten Tomaten, Oliven und Basilikum</name>
+          <name>Pasta mit Tomatensauce, getrockneten Tomaten, Oliven und Basilikum</name>
           <note>Allergens: 10 geschwärzt</note>
           <note>Allergens: 21a Weizen</note>
           <note>Allergens: 27 Sellerie</note>
@@ -114,26 +111,11 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Pizza Margherita mit Basilikum</name>
-          <note>Allergens: 21a Weizen</note>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Allergens: 36 Hefe</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">5.45</price>
-          <price role="other">5.95</price>
-          <price role="student">4.95</price>
-        </meal>
-        <meal>
-          <name>Gebratenes Gemüse aus dem Wok mit Glasnudeln und Koriander</name>
+          <name>Gebratenes Gemüse aus dem Wok mit Koriander undd Reis</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Allergens: 6 konserviert</note>
           <note>Allergens: 8 Farbstoff</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">5.45</price>
@@ -172,10 +154,8 @@
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>Soja-Milch-Reis mit Zucker, Zimt und Pflaumensauce</name>
+          <name>Soja-Milch-Reis mit Zucker, Zimt und und Rhabarber- Erdbeer-Sauce</name>
           <note>Allergens: 28 Soja</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">3.50</price>
@@ -183,10 +163,8 @@
           <price role="student">1.75</price>
         </meal>
         <meal>
-          <name>1/2 Soja-Milch-Reis mit Zucker, Zimt und Pflaumensauce</name>
+          <name>1/2 Soja-Milch-Reis mit Zucker, Zimt und und Rhabarber- Erdbeer-Sauce</name>
           <note>Allergens: 28 Soja</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">2.20</price>
@@ -206,9 +184,7 @@
           <price role="student">0.85</price>
         </meal>
         <meal>
-          <name>Kohlrabigemüse</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <name>Buntes Gemüse</name>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.70</price>
@@ -268,23 +244,20 @@
           <price role="student">1.50</price>
         </meal>
         <meal>
-          <name>Veganer Joghurt mit Apfel und Zimt</name>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
           <name>Bananen-Kokos-Joghurt</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>Veganer Joghurt mit Waldbeeren</name>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
@@ -304,20 +277,20 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Vanillesauce</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Schokopudding</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Schokopudding</name>
+          <name>Vanillesauce</name>
+          <note>Allergens: 28 Soja</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -627,6 +600,16 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
+          <name>Beerengrütze</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
           <name>Schokopudding</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -638,16 +621,6 @@
         <meal>
           <name>Vanillesauce</name>
           <note>Allergens: 28 Soja</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>Beerengrütze</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
@@ -700,6 +673,14 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
+          <name>Sauce Vinaigrette</name>
+          <note>Allergens: 29 Senf</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
           <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
@@ -711,14 +692,6 @@
         <meal>
           <name>French-Dressing</name>
           <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
-          <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -914,6 +887,18 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
+          <name>Pfirsich-Grünkern-Quark</name>
+          <note>Allergens: 21e Dinkel</note>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
+          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
           <name>Stracciatellajoghurt</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
@@ -926,13 +911,10 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Pfirsich-Grünkern-Quark</name>
-          <note>Allergens: 21e Dinkel</note>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
-          <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <name>Schokopudding</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
@@ -953,15 +935,6 @@
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>Schokopudding</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1024,7 +997,8 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>Sauce Vinaigrette</name>
+          <name>American-Dressing</name>
+          <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -1032,8 +1006,7 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>American-Dressing</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -1210,9 +1183,10 @@
           <price role="student">0.30</price>
         </meal>
         <meal>
-          <name>Tomatenketchup</name>
+          <name>Mayonnaise</name>
           <note>Allergens: 29 Senf</note>
-          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
@@ -1221,10 +1195,9 @@
           <price role="student">0.15</price>
         </meal>
         <meal>
-          <name>Mayonnaise</name>
+          <name>Tomatenketchup</name>
           <note>Allergens: 29 Senf</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
@@ -1243,6 +1216,18 @@
           <price role="employee">1.65</price>
           <price role="other">1.80</price>
           <price role="student">1.50</price>
+        </meal>
+        <meal>
+          <name>Rhababerquark mit Mandeln</name>
+          <note>Allergens: 26a Mandeln</note>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
         </meal>
         <meal>
           <name>Veganer Joghurt mit Erdbeeren</name>
@@ -1266,19 +1251,8 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Rhababerquark mit Mandeln</name>
-          <note>Allergens: 26a Mandeln</note>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>Beerengrütze</name>
+          <name>Vanillesauce</name>
+          <note>Allergens: 28 Soja</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
@@ -1297,8 +1271,7 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Vanillesauce</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Beerengrütze</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
@@ -1354,15 +1327,6 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>American-Dressing</name>
-          <note>Allergens: 28 Soja</note>
-          <note>Allergens: 29 Senf</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-        </meal>
-        <meal>
           <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
@@ -1372,6 +1336,15 @@
         </meal>
         <meal>
           <name>French-Dressing</name>
+          <note>Allergens: 28 Soja</note>
+          <note>Allergens: 29 Senf</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+        </meal>
+        <meal>
+          <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
@@ -1538,17 +1511,6 @@
           <price role="student">1.50</price>
         </meal>
         <meal>
-          <name>Veganer Joghurt mit Heidelbeeren und Mandeln</name>
-          <note>Allergens: 26a Mandeln</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
           <name>Mangoquark</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
@@ -1568,6 +1530,17 @@
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>Veganer Joghurt mit Heidelbeeren und Mandeln</name>
+          <note>Allergens: 26a Mandeln</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
@@ -1652,7 +1625,8 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Sauce Vinaigrette</name>
+          <name>American-Dressing</name>
+          <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -1660,8 +1634,7 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>American-Dressing</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -1906,20 +1879,20 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Vanillesauce</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Schokoladenpudding</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Schokoladenpudding</name>
+          <name>Vanillesauce</name>
+          <note>Allergens: 28 Soja</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -1990,8 +1963,7 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>French-Dressing</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -1999,7 +1971,8 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>Sauce Vinaigrette</name>
+          <name>French-Dressing</name>
+          <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -2197,23 +2170,23 @@
       </category>
       <category name="Desserts">
         <meal>
-          <name>Erdbeerquark</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
           <name>Apfel-Zimt-Joghurt</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Allergens: 7 Antioxidationsmittel</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>Erdbeerquark</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -2230,10 +2203,9 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Beerengrütze</name>
+          <name>Schokopudding</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -2251,9 +2223,10 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Schokopudding</name>
+          <name>Beerengrütze</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -2303,8 +2276,7 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>American-Dressing</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Sauce Vinaigrette</name>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -2321,7 +2293,8 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>Sauce Vinaigrette</name>
+          <name>American-Dressing</name>
+          <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
@@ -2487,6 +2460,17 @@
       </category>
       <category name="Desserts">
         <meal>
+          <name>Rhabarberquark</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
           <name>Joghurt mit Honig und Sesam</name>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Allergens: 31 Sesam</note>
@@ -2509,20 +2493,11 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Rhabarberquark</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>Schokopudding</name>
+          <name>Vanillesauce</name>
+          <note>Allergens: 28 Soja</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -2539,11 +2514,9 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Vanillesauce</name>
-          <note>Allergens: 28 Soja</note>
+          <name>Schokopudding</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -2845,6 +2818,17 @@
           <price role="student">0.30</price>
         </meal>
         <meal>
+          <name>Tomatenketchup</name>
+          <note>Allergens: 29 Senf</note>
+          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">0.20</price>
+          <price role="other">0.25</price>
+          <price role="student">0.15</price>
+        </meal>
+        <meal>
           <name>Mayonnaise</name>
           <note>Allergens: 29 Senf</note>
           <note>Allergens: 7 Antioxidationsmittel</note>
@@ -2856,27 +2840,15 @@
           <price role="other">0.25</price>
           <price role="student">0.15</price>
         </meal>
-        <meal>
-          <name>Tomatenketchup</name>
-          <note>Allergens: 29 Senf</note>
-          <note>Das Gericht  verschlechtert  die CO₂-Bilanz.</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">0.20</price>
-          <price role="other">0.25</price>
-          <price role="student">0.15</price>
-        </meal>
       </category>
       <category name="Desserts">
         <meal>
-          <name>Joghurt mit Waldmeister</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Allergens: 8 Farbstoff</note>
+          <name>Veganer Joghurt mit Pfirsich und Walnüssen</name>
+          <note>Allergens: 26c Walnuss</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
@@ -2894,21 +2866,13 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Veganer Joghurt mit Pfirsich und Walnüssen</name>
-          <note>Allergens: 26c Walnuss</note>
+          <name>Joghurt mit Waldmeister</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Allergens: 8 Farbstoff</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
-          <name>Schokopudding</name>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
           <price role="student">0.75</price>
@@ -2919,6 +2883,15 @@
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>Schokopudding</name>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -2989,7 +2962,7 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>French-Dressing</name>
+          <name>American-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
@@ -2998,7 +2971,7 @@
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
         </meal>
         <meal>
-          <name>American-Dressing</name>
+          <name>French-Dressing</name>
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
@@ -3179,17 +3152,6 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Himbeer-Kokos-Quark</name>
-          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
-          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
-          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
-          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
-          <price role="employee">1.50</price>
-          <price role="other">1.75</price>
-          <price role="student">0.75</price>
-        </meal>
-        <meal>
           <name>Birnen-Hafer-Joghurt</name>
           <note>Allergens: 21d Hafer</note>
           <note>Allergens: 26a Mandeln</note>
@@ -3203,10 +3165,20 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Beerengrütze</name>
+          <name>Himbeer-Kokos-Quark</name>
+          <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
+          <note>Das Gericht  verbessert  die CO₂-Bilanz  leicht .</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt.</note>
+          <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
+          <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>Schokopudding</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -3224,9 +3196,10 @@
           <price role="student">0.75</price>
         </meal>
         <meal>
-          <name>Schokopudding</name>
+          <name>Beerengrütze</name>
           <note>Das Gericht  verbessert  die CO₂-Bilanz  wesentlich .</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt.</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
           <price role="other">1.75</price>
@@ -3235,6 +3208,9 @@
       </category>
     </day>
     <day date="2026-09-26">
+      <closed/>
+    </day>
+    <day date="2026-09-27">
       <closed/>
     </day>
   </canteen>
