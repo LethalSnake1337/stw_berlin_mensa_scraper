@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-10-04">
-      <closed/>
-    </day>
     <day date="2026-10-05">
       <category name="Vorspeisen">
         <meal>
@@ -45,10 +42,19 @@
       </category>
       <category name="Suppen">
         <meal>
-          <name>Blumenkohlsuppe</name>
+          <name>Linseneintopf</name>
+          <note>Allergens: 27 Sellerie</note>
+          <note>Allergens: 29 Senf</note>
+          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
+          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
+          <price role="employee">1.50</price>
+          <price role="other">1.75</price>
+          <price role="student">0.75</price>
+        </meal>
+        <meal>
+          <name>Blumenkohl-Curry-Suppe</name>
           <note>Allergens: 28 Soja</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt aller betrachteten Speisen.</note>
-          <note>Dieses Gericht verursacht weniger als halb so viel CO₂ wie der Durchschnitt aller betrachteten Speisen.</note>
+          <note>Allergens: 29 Senf</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
@@ -83,6 +89,8 @@
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 36 Hefe</note>
           <note>Allergens: 6 konserviert</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt aller betrachteten Speisen.</note>
+          <note>Dieses Gericht verursacht weniger als halb so viel CO₂ wie der Durchschnitt aller betrachteten Speisen.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">4.30</price>
@@ -139,8 +147,6 @@
         <meal>
           <name>Gelber Reis</name>
           <note>Allergens: 29 Senf</note>
-          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt aller betrachteten Speisen.</note>
-          <note>Dieses Gericht verursacht weniger als halb so viel CO₂ wie der Durchschnitt aller betrachteten Speisen.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">1.50</price>
@@ -300,6 +306,8 @@
           <note>Allergens: 23 Eier</note>
           <note>Allergens: 30 Milch und Milchprodukte (inkl. Laktose)</note>
           <note>Allergens: 36 Hefe</note>
+          <note>Der CO₂-Wert dieses Gerichtes liegt über dem Durchschnitt aller betrachteten Speisen.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt aller betrachteten Speisen.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <price role="employee">6.30</price>
           <price role="other">7.25</price>
@@ -497,6 +505,8 @@
           <note>Allergens: 36 Hefe</note>
           <note>Allergens: 6 konserviert</note>
           <note>Allergens: 7 Antioxidationsmittel</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt aller betrachteten Speisen.</note>
+          <note>Dieses Gericht verursacht weniger als halb so viel CO₂ wie der Durchschnitt aller betrachteten Speisen.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegetarisch:  Gerichte werden ohne Fisch- und Fleischzutaten zubereitet.</note>
           <price role="employee">5.45</price>
@@ -615,10 +625,11 @@
           <price role="student">0.30</price>
         </meal>
         <meal>
-          <name>Tomatenketchup</name>
+          <name>Mayonnaise</name>
           <note>Allergens: 29 Senf</note>
-          <note>Der CO₂-Wert dieses Gerichtes liegt über dem Durchschnitt aller betrachteten Speisen.</note>
+          <note>Allergens: 7 Antioxidationsmittel</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt aller betrachteten Speisen.</note>
+          <note>Dieses Gericht verursacht weniger als halb so viel CO₂ wie der Durchschnitt aller betrachteten Speisen.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">0.20</price>
@@ -626,11 +637,10 @@
           <price role="student">0.15</price>
         </meal>
         <meal>
-          <name>Mayonnaise</name>
+          <name>Tomatenketchup</name>
           <note>Allergens: 29 Senf</note>
-          <note>Allergens: 7 Antioxidationsmittel</note>
+          <note>Der CO₂-Wert dieses Gerichtes liegt über dem Durchschnitt aller betrachteten Speisen.</note>
           <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt aller betrachteten Speisen.</note>
-          <note>Dieses Gericht verursacht weniger als halb so viel CO₂ wie der Durchschnitt aller betrachteten Speisen.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">0.20</price>
@@ -765,6 +775,8 @@
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 29 Senf</note>
           <note>Allergens: 36 Hefe</note>
+          <note>Der CO₂-Wert dieses Gerichtes liegt über dem Durchschnitt aller betrachteten Speisen.</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist doppelt so hoch wie der Durchschnitt aller betrachteten Speisen.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <price role="employee">4.90</price>
           <price role="other">5.65</price>
@@ -1185,6 +1197,8 @@
           <note>Allergens: 28 Soja</note>
           <note>Allergens: 31 Sesam</note>
           <note>Allergens: 36 Hefe</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt aller betrachteten Speisen.</note>
+          <note>Dieses Gericht verursacht weniger als halb so viel CO₂ wie der Durchschnitt aller betrachteten Speisen.</note>
           <note>Roter Ampelpunkt:  Eher selten – am besten mit Grün kombinieren.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">4.30</price>
@@ -1396,6 +1410,8 @@
           <note>Allergens: 21a Weizen</note>
           <note>Allergens: 23 Eier</note>
           <note>Allergens: 36 Hefe</note>
+          <note>Der CO₂-Wert dieses Gerichtes liegt über dem Durchschnitt aller betrachteten Speisen.</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt aller betrachteten Speisen.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <price role="employee">7.30</price>
           <price role="other">8.40</price>
@@ -1604,6 +1620,8 @@
           <note>Allergens: 29 Senf</note>
           <note>Allergens: 36 Hefe</note>
           <note>Allergens: 7 Antioxidationsmittel</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt aller betrachteten Speisen.</note>
+          <note>Dieses Gericht verursacht weniger als halb so viel CO₂ wie der Durchschnitt aller betrachteten Speisen.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">4.90</price>
@@ -1822,6 +1840,8 @@
       <category name="Essen">
         <meal>
           <name>Putengeschnetzeltes mit Pilzen</name>
+          <note>Der CO₂-Wert dieses Gerichtes liegt über dem Durchschnitt aller betrachteten Speisen.</note>
+          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt aller betrachteten Speisen.</note>
           <note>Gelber Ampelpunkt:  Eine gute Wahl – immer mal wieder.</note>
           <price role="employee">6.90</price>
           <price role="other">7.95</price>
@@ -2166,6 +2186,9 @@
       </category>
     </day>
     <day date="2026-10-17">
+      <closed/>
+    </day>
+    <day date="2026-10-18">
       <closed/>
     </day>
   </canteen>
