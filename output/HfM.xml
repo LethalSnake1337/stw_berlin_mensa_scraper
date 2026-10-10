@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-10-09">
-      <closed/>
-    </day>
     <day date="2026-10-10">
       <closed/>
     </day>
@@ -17,6 +14,8 @@
           <note>Allergens: 21e Dinkel</note>
           <note>Allergens: 26a Mandeln</note>
           <note>Allergens: 27 Sellerie</note>
+          <note>Der Wasserverbrauch für dieses Gericht ist mehr als doppelt so hoch wie der Durchschnitt aller betrachteten Speisen.</note>
+          <note>Dieses Gericht verursacht weniger als halb so viel CO₂ wie der Durchschnitt aller betrachteten Speisen.</note>
           <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
           <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
           <price role="employee">5.50</price>
@@ -53,6 +52,9 @@
       <closed/>
     </day>
     <day date="2026-10-22">
+      <closed/>
+    </day>
+    <day date="2026-10-23">
       <closed/>
     </day>
   </canteen>
