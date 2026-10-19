@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-10-18">
-      <closed/>
-    </day>
     <day date="2026-10-19">
       <category name="Vorspeisen">
         <meal>
@@ -83,17 +80,6 @@
           <price role="employee">3.90</price>
           <price role="other">4.50</price>
           <price role="student">1.95</price>
-        </meal>
-        <meal>
-          <name>Szegediner Sojagulasch mit Sauerkraut und Kartoffeln</name>
-          <note>Allergens: 28 Soja</note>
-          <note>Der Wasserverbrauch für dieses Gericht liegt unter dem Durchschnitt aller betrachteten Speisen.</note>
-          <note>Dieses Gericht verursacht weniger als halb so viel CO₂ wie der Durchschnitt aller betrachteten Speisen.</note>
-          <note>Grüner Ampelpunkt:  Die beste Wahl – je öfter, desto besser.</note>
-          <note>Vegan:  Gericht ist aus ausschließlich pflanzlichen Rohstoffen zubereitet.</note>
-          <price role="employee">3.50</price>
-          <price role="other">4.05</price>
-          <price role="student">1.75</price>
         </meal>
         <meal>
           <name>Backkartoffeln mit Tomaten, Oregano und Basilikum-Dip</name>
@@ -2160,6 +2146,9 @@
       </category>
     </day>
     <day date="2026-10-31">
+      <closed/>
+    </day>
+    <day date="2026-11-01">
       <closed/>
     </day>
   </canteen>
