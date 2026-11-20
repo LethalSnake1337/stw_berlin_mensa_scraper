@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <openmensa version="2.1" xmlns="http://openmensa.org/open-mensa-v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openmensa.org/open-mensa-v2 http://openmensa.org/open-mensa-v2.xsd">
   <canteen>
-    <day date="2026-11-19">
+    <day date="2026-11-20">
       <category name="Mittagstisch">
         <meal>
           <name>cafeneroindenuniversitätsbibliothekendertuundudkberlin</name>
         </meal>
       </category>
-      <category name="mittagstisch – donnerstag 19. november 2026 von 12:00 bis 17:00 uhr rg">
+      <category name="mittagstisch – freitag 20. november 2026 von 12:00 bis 17:00 uhr rg">
         <meal>
           <name>kleine portion suppe</name>
           <price role="other">5.00</price>
@@ -15,6 +15,10 @@
         <meal>
           <name>kleine portion nudeln</name>
           <price role="other">6.00</price>
+        </meal>
+        <meal>
+          <name>beilagensalat</name>
+          <price role="other">2.80</price>
         </meal>
         <meal>
           <name>pellkartoffeln mit butter oder kräuterquark + leinoel und gemischtem salat vegetarisch je</name>
@@ -27,31 +31,39 @@
           <price role="other">6.80</price>
         </meal>
         <meal>
-          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! lauchcremesuppe mit ajvar-chili-dip, möhrenraspel, lauchzwiebel, petersilie und brot vegan</name>
+          <name>für informationen über verwendete allergene wenden sie sich bitte direkt an unseren koch !!! kichererbsen-linsen-gemüse-suppe mit möhrenraspel, lauchzwiebel, petersilie, zwiebelbrot vegan</name>
           <note>vegan</note>
           <price role="other">6.00</price>
         </meal>
         <meal>
-          <name>spaghetti hack-käse-spinat-kurkuma-sauce, möhrenraspel, lauchzwiebel, petersilie, parmesankäse rindfleisch</name>
+          <name>spaghetti bolognese mit möhrenraspel, frühlingszwiebel, petersilie + parmesankäse rindfleisch</name>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>spaghetti mit sellerie-kräuter-creme-sauce, möhrenraspel, lauchzwiebel, petersilie + (parmesankäse)- vegan</name>
+          <name>spaghetti napoli mit pestokleks, möhrenraspel, lauchzwiebel, petersilie + (parmesan) vegan / käse mit lab</name>
           <note>vegan</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>spaghetti mit feldsalat-kürbiskernpesto + (parmesan) vegan / käse mit lab</name>
+          <name>spaghetti mit tomaten-kürbiskernöl-pesto + (parmesan) vegan / käse mit lab</name>
           <note>vegan</note>
           <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>tomaten-auberginen-ragout mit fenchelsamen, fetakrümel auf reisnudeln und gem. salat mit mangodressing vegetarisch</name>
+          <name>spaghetti aglio e olio e peperoncini mit petersilie und (parmesankäse) vegan / mit käse vegetarisch</name>
+          <note>vegan</note>
           <note>vegetarisch</note>
-          <price role="other">9.00</price>
+          <price role="other">7.00</price>
         </meal>
         <meal>
-          <name>tom kha gai – thailändische hühner-cocos-suppe, reisnudeln, hähnchenbrust, champignons, frühlings- zwiebeln, sojasprossen, koriander, thaibasilikum geflügelfleisch</name>
+          <name>spaghetti + salbei-zwiebelcremesauce + (parmesan) vegan / mit käse vegetarisch</name>
+          <note>vegan</note>
+          <note>vegetarisch</note>
+          <price role="other">7.00</price>
+        </meal>
+        <meal>
+          <name>fischpfanne (seelachs, rotbarsch, steinbeisser, goldforelle) mit safran- bechamel, rote beete-kartoffelstampf, blumenkohl/broccoli fisch</name>
+          <note>fisch</note>
           <price role="other">10.00</price>
         </meal>
       </category>
